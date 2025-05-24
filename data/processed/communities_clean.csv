@@ -1,0 +1,101 @@
+community_id,city,state,population,area_sqm,density_pop_per_sqm,closest_large_media_market,distance_from_lmm,pct_white,pct_black,pct_hislat,universities_count,county_seat,state_capital
+1,Acworth,GA,20425,8.24,2477.6,Atlanta,28,63,26,12,0,No,No
+2,Alton,IL,27865,15.47,1801.2,St. Louis,15,69,27,2,0,No,No
+3,Ann Arbor,MI,113934,27.83,4094,Detroit,36,73,8,4,1,No,No
+4,Antioch,CA,102372,28.35,3611.2,San Francisco,37,49,17,32,0,No,No
+5,Apple Valley,CA,69135,73.19,944.6,Los Angeles,68,69,9,29,0,No,No
+6,Bay City,MI,34932,10.17,3436,Detroit,97,90,4,9,0,No,No
+7,Beavercreek,OH,45193,26.4,1711.9,Columbus,60,89,3,3,0,No,No
+8,Belmont,CA,25835,4.62,5590.2,San Francisco,20,68,2,12,0,No,No
+9,Belton,MO,23116,14.25,1622.7,Kansas City,20,86,6,8,0,No,No
+10,Beverly,MA,39502,15.09,2617.2,Boston,17,83,3,2,0,No,No
+11,Biddeford,ME,21277,30.09,707.2,Boston,84,95,1,2,0,No,No
+12,Boulder,CO,97385,24.66,3948.4,Denver,24,88,1,9,1,No,No
+13,Bozeman,MT,37280,19.12,1950,Salt Lake City,342,94,1,3,1,Yes,No
+14,Cedar Falls,IA,39260,28.75,1365.7,Minneapolis,174,93,2,2,1,No,No
+15,Charleston,IL,21838,8.92,2449.1,Indianapolis,109,90,6,2,1,Yes,No
+16,Cicero,IL,83891,5.86,14304.8,Chicago,7,52,4,90,0,No,No
+17,Coppell,TX,38659,14.39,2685.7,Dallas,18,83,3,7,0,No,No
+18,Corona,CA,152374,38.83,3924.6,Los Angeles,41,60,6,44,0,No,No
+19,Cottage Grove,MN,34589,33.62,1028.7,Minneapolis,19,87,4,5,0,No,No
+20,Darien,IL,22086,6.18,3574.9,Chicago,20,90,1,1,0,No,No
+21,Dover,DE,36047,23.15,1557.3,Philadelphia,58,48,42,7,0,Yes,Yes
+22,East St. Louis,IL,27006,13.99,1930.1,St. Louis,4,98,1,1,0,No,No
+23,Elizabethtown,KY,28531,25.36,1125.1,Louisville,39,80,20,4,0,No,No
+24,Elmwood Park,IL,24883,1.91,13045.7,Chicago,10,92,1,11,0,No,No
+25,Faribault,MN,23352,15.32,1524.7,Minneapolis,47,83,8,13,0,Yes,No
+26,Flower Mound,TX,64669,41.39,1562.5,Dallas,29,83,3,8,0,No,No
+27,Garfield Heights,OH,28849,7.23,3990.3,Cleveland,7,60,36,2,0,No,No
+28,Glendale,AZ,226721,59.98,3780.2,Phoenix,9,76,5,25,0,No,No
+29,Glendora,CA,50073,19.39,2582,Los Angeles,22,75,2,31,0,No,No
+30,Golden Valley,MN,20371,10.19,1998.2,Minneapolis,5,85,7,3,0,No,No
+31,Grand Rapids,MI,188040,44.4,4235.6,Detroit,140,65,21,16,0,Yes,No
+32,Hemet,CA,78657,27.85,2824.6,San Diego,72,68,6,36,0,No,No
+33,Henderson,KY,28757,15.3,1879.4,Louisville,104,85,12,2,0,No,No
+34,Holladay,UT,26472,7.92,3343.4,Salt Lake City,7,96,1,2,0,No,No
+35,Hurst,TX,37337,9.91,3765.7,Dallas,21,64,6,24,0,No,No
+36,Independence,KY,24757,17.44,1419.7,Cincinnati,11,97,1,1,0,No,No
+37,Issaquah,WA,30434,11.38,2675,Seattle,15,75,1,6,0,No,No
+38,Keene,NH,23409,37.25,628.5,Boston,74,95,1,2,2,No,No
+39,Kingsville,TX,26213,13.83,1895.1,San Antonio,138,78,4,71,1,Yes,No
+40,La Crosse,WI,51320,20.52,2501.4,Minneapolis,129,90,2,2,2,No,No
+41,La Porte,IN,22053,11.66,1891.3,Chicago,50,89,0,11,0,Yes,No
+42,La Vergne,TN,32588,24.93,1307,Nashville,15,85,11,4,0,No,No
+43,Laredo,TX,236091,88.91,2655.4,San Antonio,144,88,1,96,1,Yes,No
+44,Lauderdale Lakes,FL,32593,3.68,8853,Miami,28,14,81,5,0,No,No
+45,Lincoln Park Cit,NA,38144,5.89,6478.3,Detroit,9,84,6,15,0,No,No
+46,Lomita,CA,20256,1.91,10601.3,Los Angeles,18,59,5,33,0,No,No
+47,Loves Park,IL,23996,16.03,1496.8,Chicago,79,93,2,3,0,No,No
+48,Marietta,GA,56579,23.08,2451.4,Atlanta,17,53,32,21,1,Yes,No
+49,Marion,OH,36837,11.74,3138.8,Columbus,44,87,10,3,0,Yes,No
+50,Medford,OR,74907,25.73,2910.9,Portland,274,86,1,14,0,Yes,No
+51,Menlo Park,CA,32026,9.79,3271.4,San Jose,18,70,5,18,0,No,No
+52,Merced,CA,78958,23.32,3386.4,San Jose,77,52,6,50,1,No,No
+53,Mesquite,TX,139824,46.02,3038.3,Dallas,18,59,22,32,0,No,No
+54,Milford City (Balance),CT,51271,21.9,2341,New York,61,94,2,3,0,No,No
+55,Minnetonka,MN,49734,26.93,1847,Minneapolis,11,90,4,2,0,No,No
+56,Miramar,FL,122041,29.52,4134.1,Miami,17,41,46,37,0,No,No
+57,New Berlin,WI,39584,36.44,1086.2,Milwaukee,11,93,1,3,0,No,No
+58,Newnan,GA,33039,18.32,1803.9,Atlanta,35,54,42,5,0,No,No
+59,Oviedo,FL,33342,15.21,2192.3,Orlando,14,84,9,12,0,No,No
+60,Owasso,OK,28915,16.29,1775.3,Oklahoma City,108,79,3,7,0,No,No
+61,Oxford,AL,21348,30.67,696.1,Atlanta,84,81,13,7,0,No,No
+62,Palmdale,CA,152750,105.96,1441.6,Los Angeles,37,49,15,54,0,No,No
+63,Parma Heights,OH,20718,4.19,4949.9,Cleveland,8,91,3,4,0,No,No
+64,Pasadena,CA,137122,22.97,5969.6,Los Angeles,9,56,11,39,0,No,No
+65,Paterson,NJ,146199,8.43,17346.3,New York,17,35,32,58,0,Yes,No
+66,Pearl,MS,25092,23.6,1063.2,New Orleans,161,70,23,6,0,No,No
+67,Plainfield,IN,27631,22.27,1240.5,Indianapolis,14,85,8,4,0,No,No
+68,Prichard,AL,22659,25.29,896,New Orleans,131,13,86,1,0,No,No
+69,Quincy,IL,40633,15.91,2554.1,St. Louis,111,91,5,1.4,0,No,No
+70,Rexburg,ID,25484,9.76,2610.8,Salt Lake City,211,94,1,6,1,Yes,No
+71,Rock Hill,SC,66154,35.72,1851.9,Charlotte,23,55,38,6,0,No,No
+72,Rock Island,IL,39018,16.85,2316.1,Chicago,154,85,10,12,1,Yes,No
+73,Royal Oak,MI,57236,11.78,4856.8,Detroit,12,91,4,2,0,No,No
+74,Searcy,AR,22858,18.34,1246.6,Memphis,95,87,1,5,0,Yes,No
+75,Slidell,LA,27068,14.84,1823.5,New Orleans,28,76,17,6,0,No,No
+76,Spartanburg,SC,37013,19.77,1872.2,Charlotte,65,46,49,3,2,Yes,No
+77,Springville,UT,29466,14.38,2049,Salt Lake City,44,95,0,5,0,No,No
+78,St. Cloud,FL,35183,17.76,1981.3,Orlando,26,82,6,29,0,No,No
+79,Stamford,CT,122643,37.64,3258.4,New York,34,53,13,24,0,No,No
+80,State College,PA,42034,4.56,9223.2,Pittsburgh,115,83,4,4,1,No,No
+81,Stockton,CA,291707,61.67,4730.2,San Francisco,45,37,12,40,1,No,No
+82,Strongsville,OH,44750,24.63,1817.1,Cleveland,15,92,2,2,0,No,No
+83,Surprise,AZ,117517,105.75,1111.3,Phoenix,21,81,5,18,0,No,No
+84,Texarkana,AR,29919,41.65,718.3,Dallas,166,62,33,3,0,Yes,No
+85,Thornton,CO,118772,34.84,3408.8,Denver,9,77,2,32,0,No,No
+86,Tracy,CA,82922,22,3768.7,San Jose,38,53,7,37,0,No,No
+87,Utica,NY,62235,16.76,3713.6,New York,177,69,15,11,1,Yes,No
+88,Vacaville,CA,92428,28.37,3257.7,Sacramento,31,66,10,23,0,No,No
+89,Valley Stream,NY,37511,3.48,10772.4,New York,16,79,8,12,0,No,No
+90,Visalia,CA,124442,36.25,3433.3,Los Angeles,168,65,1,46,0,Yes,No
+91,Walnut Creek,CA,64173,19.76,3248.2,San Francisco,22,79,2,9,0,No,No
+92,West Allis,WI,60411,11.38,5306.3,Milwaukee,5,87,4,10,0,No,No
+93,West Bend,WI,31078,14.57,2133.7,Milwaukee,30,95,0,4,0,No,No
+94,West Covina,CA,106098,16.04,6614.3,Los Angeles,18,43,5,53,0,No,No
+95,Willoughby,OH,22268,10.25,2172.7,Cleveland,19,93.6,3.1,1.3,0,No,No
+96,Winona,MN,27592,18.84,1464.4,Minneapolis,101,93,2,2,1,No,No
+97,Woodbury,MN,61961,34.73,1784.1,Minneapolis,15,81,6,4,0,No,No
+98,Woodstock,GA,23896,11.16,2141.3,Atlanta,26,79,10,10,0,No,No
+99,Wyoming,MI,72125,24.64,2927.3,Detroit,141,76,7,19,0,No,No
+100,Yakima,WA,91067,27.18,3350.6,Seattle,111,67,2,41,0,No,No

@@ -1,0 +1,101 @@
+State,City,Geographic area,ID Number,Population,Area in square miles - Land area,Density per square mile of land area - Population,Target Geo Id2,Dollar,Closest LMM,Distance from LMM,%White,%AA,%H/L,Universities,County Seat,State Capital
+Georgia -,Acworth city,Acworth city,1341,20425,8.24,2477.6,1300408,54103,Atlanta,28,63,26,12,0,NA,NA
+Illinois -,Alton city,Alton city,1696,27865,15.47,1801.2,1701114,43874,St. Louis,15,69,27,2,0,NA,NA
+Michigan,Ann Arbor city,Ann Arbor city,352,113934,27.83,4094,2603000,96210,Detroit,36,73,8,4,1,NA,NA
+California,Antioch city,Antioch city,749,102372,28.35,3611.2,602252,73023,San Francisco,37,49,17,32,0,NA,NA
+California -,Apple Valley town,Apple Valley town,1322,69135,73.19,944.6,602364,54646,Los Angeles,68,69,9,29,0,NA,NA
+Michigan -,Bay City city,Bay City city,1628,34932,10.17,3436,2606020,46130,Detroit,97,90,4,9,0,NA,NA
+Ohio,Beavercreek city,Beavercreek city,337,45193,26.4,1711.9,3904720,97123,Columbus,60,89,3,3,0,NA,NA
+California,Belmont city,Belmont city,44,25835,4.62,5590.2,605108,142446,San Francisco,20,68,2,12,0,NA,NA
+Missouri,Belton city,Belton city,1149,23116,14.25,1622.7,2904384,59525,Kansas City,20,86,6,8,0,NA,NA
+Massachusetts,Beverly city,Beverly city,350,39502,15.09,2617.2,2505595,96514,Boston,17,83,3,2,0,NA,NA
+Maine,Biddeford city,Biddeford city,1147,21277,30.09,707.2,2304860,59546,Boston,84,95,1,2,0,NA,NA
+Colorado,Boulder city,Boulder city,265,97385,24.66,3948.4,807850,102623,Denver,24,88,1,9,1,NA,NA
+Montana,Bozeman city,Bozeman city,886,37280,19.12,1950,3008950,67731,Salt Lake City,342,94,1,3,1,1,NA
+Iowa,Cedar Falls city,Cedar Falls city,611,39260,28.75,1365.7,1911755,78706,Minneapolis,174,93,2,2,1,NA,NA
+Illinois -,Charleston city,Charleston city,1629,21838,8.92,2449.1,1712567,46118,Indianapolis,109,90,6,2,1,1,NA
+Illinois -,Cicero town,Cicero town,1642,83891,5.86,14304.8,1714351,45490,Chicago,7,52,4,90,0,NA,NA
+Texas,Coppell city,Coppell city,82,38659,14.39,2685.7,4816612,129444,Dallas,18,83,3,7,0,NA,NA
+California,Corona city,Corona city,542,152374,38.83,3924.6,616350,82607,Los Angeles,41,60,6,44,0,NA,NA
+Minnesota,Cottage Grove city,Cottage Grove city,407,34589,33.62,1028.7,2713456,91813,Minneapolis,19,87,4,5,0,NA,NA
+Illinois,Darien city,Darien city,375,22086,6.18,3574.9,1718628,93900,Chicago,20,90,1,1,0,NA,NA
+Delaware,Dover city,Dover city,1241,36047,23.15,1557.3,1021200,56630,Philadelphia,58,48,42,7,0,1,1
+Illinois -,East St. Louis city,East St. Louis city,1897,27006,13.99,1930.1,1722255,21301,St. Louis,4,98,1,1,0,NA,NA
+Kentucky,Elizabethtown city,Elizabethtown city,1214,28531,25.36,1125.1,2124274,57195,Louisville,39,80,20,4,0,NA,NA
+Illinois,Elmwood Park village,Elmwood Park village,933,24883,1.91,13045.7,1723724,66450,Chicago,10,92,1,11,0,NA,NA
+Minnesota,Faribault city,Faribault city,986,23352,15.32,1524.7,2720546,64652,Minneapolis,47,83,8,13,0,1,NA
+Texas,Flower Mound town,Flower Mound town,81,64669,41.39,1562.5,4826232,129866,Dallas,29,83,3,8,0,NA,NA
+Ohio -,Garfield Heights city,Garfield Heights city,1587,28849,7.23,3990.3,3929428,47455,Cleveland,7,60,36,2,0,NA,NA
+Arizona,Glendale city,Glendale city,1309,226721,59.98,3780.2,427820,54952,Phoenix,9,76,5,25,0,NA,NA
+California,Glendora city,Glendora city,532,50073,19.39,2582,630014,82961,Los Angeles,22,75,2,31,0,NA,NA
+Minnesota,Golden Valley city,Golden Valley city,275,20371,10.19,1998.2,2724308,102077,Minneapolis,5,85,7,3,0,NA,NA
+Michigan -,Grand Rapids city,Grand Rapids city,1555,188040,44.4,4235.6,2634000,48357,Detroit,140,65,21,16,0,1,NA
+California -,Hemet city,Hemet city,1746,78657,27.85,2824.6,633182,41824,San Diego,72,68,6,36,0,NA,NA
+Kentucky -,Henderson city,Henderson city,1594,28757,15.3,1879.4,2135866,47222,Louisville,104,85,12,2,0,NA,NA
+Utah,Holladay city,Holladay city,354,26472,7.92,3343.4,4936070,95994,Salt Lake City,7,96,1,2,0,NA,NA
+Texas,Hurst city,Hurst city,846,37337,9.91,3765.7,4835576,68942,Dallas,21,64,6,24,0,NA,NA
+Kentucky,Independence city,Independence city,819,24757,17.44,1419.7,2139142,70224,Cincinnati,11,97,1,1,0,NA,NA
+Washington,Issaquah city,Issaquah city,123,30434,11.38,2675,5333805,120347,Seattle,15,75,1,6,0,NA,NA
+New Hampshire,Keene city,Keene city,688,23409,37.25,628.5,3339300,75057,Boston,74,95,1,2,2,NA,NA
+Texas -,Kingsville city,Kingsville city,1692,26213,13.83,1895.1,4839352,44040,San Antonio,138,78,4,71,1,1,NA
+Wisconsin,La Crosse city,La Crosse city,1157,51320,20.52,2501.4,5540775,59369,Minneapolis,129,90,2,2,2,NA,NA
+Indiana -,La Porte city,La Porte city,1606,22053,11.66,1891.3,1842246,46813,Chicago,50,89,0,11,0,1,NA
+Tennessee,La Vergne city,La Vergne city,1272,32588,24.93,1307,4741200,55833,Nashville,15,85,11,4,0,NA,NA
+Texas -,Laredo city,Laredo city,1740,236091,88.91,2655.4,4841464,42152,San Antonio,144,88,1,96,1,1,NA
+Florida -,Lauderdale Lakes city,Lauderdale Lakes city,1835,32593,3.68,8853,1239525,36760,Miami,28,14,81,5,0,NA,NA
+Michigan - y,Lincoln Park cit,Lincoln Park city,1561,38144,5.89,6478.3,2647800,48133,Detroit,9,84,6,15,0,NA,NA
+California,Lomita city,Lomita city,931,20256,1.91,10601.3,642468,66541,Los Angeles,18,59,5,33,0,NA,NA
+Illinois,Loves Park city,Loves Park city,1078,23996,16.03,1496.8,1745031,61901,Chicago,79,93,2,3,0,NA,NA
+Georgia -,Marietta city,Marietta city,1409,56579,23.08,2451.4,1349756,52181,Atlanta,17,53,32,21,1,1,NA
+Ohio -,Marion city,Marion city,1715,36837,11.74,3138.8,3947754,43184,Columbus,44,87,10,3,0,1,NA
+Oregon -,Medford city,Medford city,1522,74907,25.73,2910.9,4147000,49296,Portland,274,86,1,14,0,1,NA
+California,Menlo Park city,Menlo Park city,30,32026,9.79,3271.4,646870,156439,San Jose,18,70,5,18,0,NA,NA
+California -,Merced city,Merced city,1698,78958,23.32,3386.4,646898,43809,San Jose,77,52,6,50,1,NA,NA
+Texas,Mesquite city,Mesquite city,1258,139824,46.02,3038.3,4847892,56250,Dallas,18,59,22,32,0,NA,NA
+Connecticut,Milford city (balance),Milford city (balance),308,51271,21.9,2341,947515,99729,New York,61,94,2,3,0,NA,NA
+Minnesota,Minnetonka city,Minnetonka city,214,49734,26.93,1847,2743252,107418,Minneapolis,11,90,4,2,0,NA,NA
+Florida,Miramar city,Miramar city,883,122041,29.52,4134.1,1245975,67772,Miami,17,41,46,37,0,NA,NA
+Wisconsin,New Berlin city,New Berlin city,341,39584,36.44,1086.2,5556375,97062,Milwaukee,11,93,1,3,0,NA,NA
+Georgia,Newnan city,Newnan city,987,33039,18.32,1803.9,1355020,64615,Atlanta,35,54,42,5,0,NA,NA
+Florida,Oviedo city,Oviedo city,409,33342,15.21,2192.3,1253575,91727,Orlando,14,84,9,12,0,NA,NA
+Oklahoma,Owasso city,Owasso city,744,28915,16.29,1775.3,4056650,73163,Oklahoma City,108,79,3,7,0,NA,NA
+Alabama,Oxford city,Oxford city,1190,21348,30.67,696.1,157576,57963,Atlanta,84,81,13,7,0,NA,NA
+California,Palmdale city,Palmdale city,1253,152750,105.96,1441.6,655156,56351,Los Angeles,37,49,15,54,0,NA,NA
+Ohio,Parma Heights city,Parma Heights city,1280,20718,4.19,4949.9,3961028,55680,Cleveland,8,91,3,4,0,NA,NA
+California,Pasadena city,Pasadena city,458,137122,22.97,5969.6,656000,88600,Los Angeles,9,56,11,39,0,NA,NA
+New Jersey -,Paterson city,Paterson city,1816,146199,8.43,17346.3,3457000,38377,New York,17,35,32,58,0,1,NA
+Mississippi -,Pearl city,Pearl city,1605,25092,23.6,1063.2,2855760,46823,New Orleans,161,70,23,6,0,NA,NA
+Indiana,Plainfield town,Plainfield town,890,27631,22.27,1240.5,1860246,67596,Indianapolis,14,85,8,4,0,NA,NA
+Alabama -,Prichard city,Prichard city,1889,22659,25.29,896,162496,29400,New Orleans,131,13,86,1,0,NA,NA
+Illinois,Quincy city,Quincy city,1300,40633,15.91,2554.1,1762367,55215,St. Louis,111,91,5,1.4,0,NA,NA
+Idaho -,Rexburg city,Rexburg city,1893,25484,9.76,2610.8,1667420,26805,Salt Lake City,211,94,1,6,1,1,NA
+South Carolina -,Rock Hill city,Rock Hill city,1354,66154,35.72,1851.9,4561405,53705,Charlotte,23,55,38,6,0,NA,NA
+Illinois -,Rock Island city,Rock Island city,1420,39018,16.85,2316.1,1765078,51941,Chicago,154,85,10,12,1,1,NA
+Michigan,Royal Oak city,Royal Oak city,465,57236,11.78,4856.8,2670040,87521,Detroit,12,91,4,2,0,NA,NA
+Arkansas,Searcy city,Searcy city,1259,22858,18.34,1246.6,563020,56233,Memphis,95,87,1,5,0,1,NA
+Louisiana,Slidell city,Slidell city,1236,27068,14.84,1823.5,2270805,56732,New Orleans,28,76,17,6,0,NA,NA
+South Carolina -,Spartanburg city,Spartanburg city,1792,37013,19.77,1872.2,4568290,39882,Charlotte,65,46,49,3,2,1,NA
+Utah,Springville city,Springville city,1074,29466,14.38,2049,4972280,62075,Salt Lake City,44,95,0,5,0,NA,NA
+Florida -,St. Cloud city,St. Cloud city,1319,35183,17.76,1981.3,1262625,54700,Orlando,26,82,6,29,0,NA,NA
+Connecticut,Stamford city,Stamford city,384,122643,37.64,3258.4,973000,93063,New York,34,53,13,24,0,NA,NA
+Pennsylvania,State College borough,State College borough,705,42034,4.56,9223.2,4273808,74444,Pittsburgh,115,83,4,4,1,NA,NA
+California -,Stockton city,Stockton city,1490,291707,61.67,4730.2,675000,50166,San Francisco,45,37,12,40,1,NA,NA
+Ohio,Strongsville city,Strongsville city,326,44750,24.63,1817.1,3975098,98073,Cleveland,15,92,2,2,0,NA,NA
+Arizona,Surprise city,Surprise city,962,117517,105.75,1111.3,471510,65393,Phoenix,21,81,5,18,0,NA,NA
+Arkansas -,Texarkana city,Texarkana city,1512,29919,41.65,718.3,568810,49623,Dallas,166,62,33,3,0,1,NA
+Colorado,Thornton city,Thornton city,692,118772,34.84,3408.8,877290,74777,Denver,9,77,2,32,0,NA,NA
+California,Tracy city,Tracy city,581,82922,22,3768.7,680238,80439,San Jose,38,53,7,37,0,NA,NA
+New York -,Utica city,Utica city,1814,62235,16.76,3713.6,3676540,38581,New York,177,69,15,11,1,1,NA
+California,Vacaville city,Vacaville city,493,92428,28.37,3257.7,681554,85931,Sacramento,31,66,10,23,0,NA,NA
+New York,Valley Stream village,Valley Stream village,266,37511,3.48,10772.4,3676705,102458,New York,16,79,8,12,0,NA,NA
+California,Visalia city,Visalia city,1231,124442,36.25,3433.3,682954,56766,Los Angeles,168,65,1,46,0,1,NA
+California,Walnut Creek city,Walnut Creek city,173,64173,19.76,3248.2,683346,112114,San Francisco,22,79,2,9,0,NA,NA
+Wisconsin,West Allis city,West Allis city,1104,60411,11.38,5306.3,5585300,61190,Milwaukee,5,87,4,10,0,NA,NA
+Wisconsin,West Bend city,West Bend city,816,31078,14.57,2133.7,5585350,70303,Milwaukee,30,95,0,4,0,NA,NA
+California,West Covina city,West Covina city,759,106098,16.04,6614.3,684200,72751,Los Angeles,18,43,5,53,0,NA,NA
+Ohio,Willoughby city,Willoughby city,NA,22268,10.25,2172.7,3985484,67095,Cleveland,19,93.6,3.1,1.3,0,NA,NA
+Minnesota,Winona city,Winona city,970,27592,18.84,1464.4,2771032,65088,Minneapolis,101,93,2,2,1,NA,NA
+Minnesota,Woodbury city,Woodbury city,170,61961,34.73,1784.1,2771428,112592,Minneapolis,15,81,6,4,0,NA,NA
+Georgia,Woodstock city,Woodstock city,561,23896,11.16,2141.3,1384176,81441,Atlanta,26,79,10,10,0,NA,NA
+Michigan,Wyoming city,Wyoming city,1305,72125,24.64,2927.3,2688940,55009,Detroit,141,76,7,19,0,NA,NA
+Washington -,Yakima city,Yakima city,1589,91067,27.18,3350.6,5380010,47369,Seattle,111,67,2,41,0,NA,NA

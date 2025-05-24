@@ -1,0 +1,37 @@
+"0",""
+"0","# Local communities_clean"
+"0","communities_clean <- read_csv(""data/processed/communities_clean.csv"")"
+"2","
+[36m──[39m [1m[1mColumn specification[1m[22m [36m───────────────────────────────────────────────────────────────────────────────[39m
+cols(
+  community_id = [32mcol_double()[39m,
+  city = [31mcol_character()[39m,
+  id_number = [32mcol_double()[39m,
+  population = [32mcol_double()[39m,
+  area_sqm = [32mcol_double()[39m,
+  density_pop_per_sqm = [32mcol_double()[39m,
+  closest_large_media_market = [31mcol_character()[39m,
+  distance_from_lmm = [32mcol_double()[39m,
+  pct_white = [32mcol_double()[39m,
+  pct_black = [32mcol_double()[39m,
+  pct_hislat = [32mcol_double()[39m,
+  universities_count = [32mcol_double()[39m,
+  county_seat = [32mcol_double()[39m,
+  state_capital = [32mcol_double()[39m,
+  state = [31mcol_character()[39m
+)
+
+"
+"0","View(communities_clean)"
+"0",""
+"0","# Change 1s and 0s to Yes and No in communities file"
+"0","communities_binary <- c(""county_seat"", ""state_capital"")"
+"0",""
+"0","communities_clean <- communities_clean %>% "
+"0","  mutate(across(all_of(communities_binary), ~ ifelse(. == 1, ""Yes"", ""No""))) %>% "
+"0","  mutate(city = sub("",\\s*[A-Z]{2}$"", """", city))"
+"0",""
+"0","communities_clean <- communities_clean %>% "
+"0","  select(community_id, city, state, everything()) %>% "
+"0","  select(-id_number)"
+"0",""

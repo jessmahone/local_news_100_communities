@@ -1,0 +1,664 @@
+outlet_id,outlet_name,url,outlet_type,community_id
+1,WBFX FM 101.3,http://1013thebrew.iheart.com/,Radio Station,31
+2,3ABN,http://3abn.org/,Online Only,31
+3,WOLI 910,http://activanetwork.com/greenville/,Radio Station,76
+4,Ann Arbor Observer,http://annarborobserver.com/articles/front_page.html,Newspaper/Magazine,3
+5,Antioch Herald,http://antiochherald.com/,Online Only,4
+6,Beavercreek News Current,http://beavercreeknewscurrent.com/,Newspaper/Magazine,7
+7,BevCam,http://bevcam.org/,TV Station,10
+8,Bozeman Magazine,http://bozemanmagazine.com/,Newspaper/Magazine,13
+9,NA,http://denver.yourhub.com/Thornton,Online Only,85
+10,KOBI Channel 5 California Oregon Broadcasting NBC,http://kobi5.com/,TV Station,50
+11,WTVW TV 7,http://www.tristatehomepage.com/,TV Station,33
+12,Owasso Reporter,http://www.tulsaworld.com/communities/owasso/,Newspaper/Magazine,60
+13,KYCR AM 1440,http://www.twincitiesbusinessradio.com/,Radio Station,30
+14,KHOT 105.9 FM,http://www.univision.com/arizona/khot,Radio Station,28
+15,NA,http://www.univision.com/musica,Radio Station,94
+16,WPNR-FM 90.7 Power 90.7 FM,http://www.utica.edu/student/activities/organizations/wpnr/index.cfm,Radio Station,87
+17,Observer-Dispatch,http://www.uticaod.com/,Newspaper/Magazine,87
+18,Valley Magazine,http://www.valleymagazinepsu.com/,Newspaper/Magazine,80
+19,W213AW 90.5 FM,http://www.vcyamerica.org/,Radio Station,15
+20,Visalia Times-Delta,http://www.visaliatimesdelta.com/,Newspaper/Magazine,90
+21,Local in Ann Arbor,https://localinannarbor.com/,Online Only,3
+22,MiBiz,https://mibiz.com/,Newspaper/Magazine,31
+23,Aquinas College Saint,https://thesaintaq.com/,Newspaper/Magazine,31
+24,Visit Glendale and the West Valley,https://visitglendale.wordpress.com/,Online Only,28
+25,West Bend Current,https://westbendcurrent.com/,Online Only,93
+26,The Bearvercreek Ohio Buzz,https://www.facebook.com/The-Beavercreek-Ohio-Buzz-219750630759/,Online Only,7
+27,Free Talk Radio Live Blog,https://www.freetalklive.com/,Online Only,38
+28,Michigan Daily,https://www.michigandaily.com/,Newspaper/Magazine,3
+29,Patersonian TAP,https://www.tapinto.net/towns/paterson,Online Only,65
+30,KULT-LP FM 94.5,https://www.uni.edu/kult/,Radio Station,14
+31,NA,http://1013.iheart.com/,Radio Station,91
+32,WONQ AM 1030 Flordia Broadcasters,http://1030lagrande.com/,Radio Station,59
+33,WGBF FM 103.1 Rock,http://103gbfrocks.com/,Radio Station,33
+34,WQCK-FM1 105.9 105.9/106.9 Lion Country's Rock Station,http://1059qwikrock.com/,Radio Station,80
+35,KSTN 105.9,http://1059thebull.com/,Radio Station,81
+36,KTGX FM 106.1 Clear Channel,http://1061thetwister.iheart.com/,Radio Station,60
+37,NA,http://590kid.com/,Radio Station,70
+38,W222AF (WGST) 92.3,http://640wgst.iheart.com/,Radio Station,48
+39,WVCC AM 720,http://720thevoice.iheart.com/,Radio Station,58
+40,WPAT-FM 93.1 WPAT Licensing,http://931amor.lamusica.com/,Radio Station,65
+41,W231DD 94.1 FM (WVIC Lansing rebroadcast),http://941theduke.com/,Radio Station,31
+42,K231AA 94.1 FM,http://957theparty.iheart.com/,Radio Station,12
+43,WKGL FM 96.7 The Eagle,http://967theeagle.net/,Radio Station,47
+44,WDIF Marion's Radio station,http://975wdif.com/,Radio Station,49
+45,AdVantage News,http://advantagenews.com/,Online Only,2
+46,WZDA FM 103.9,http://altdayton.iheart.com/,Radio Station,7
+47,K246CL 97.1 FM,http://amp.cbslocal.com/,Radio Station,5
+48,W286AZ (WFOM) (CP) 106.3 and WFOM 1230 AM,http://atlantassportsstation.com/,Radio Station,48
+49,WBCT FM 93.7,http://b93.iheart.com/,Radio Station,31
+50,NA,http://b945live.com/,Radio Station,80
+51,Beavercreek Record,http://beavercreekrecord.com/,Newspaper/Magazine,7
+52,Beverly Citizen,http://beverly.wickedlocal.com/,Newspaper/Magazine,10
+53,NA,http://big983indy.iheart.com/,Radio Station,67
+54,NA,http://bigfrog104.com/,Radio Station,87
+55,Bizwest,http://bizwest.com/,Online Only,12
+56,The Prodigy - UC Merced  Newspaper,http://blogs.ucmerced.edu/prodigy/,Newspaper/Magazine,52
+57,WBLU FM 88.9,http://bluelake.org/radio/index.php,Radio Station,31
+58,KLMV-LD TV Salazar,http://buenav.net/,TV Station,43
+59,NA,http://byuidahoradio.org/,Radio Station,70
+60,BYUI Scroll,http://byuiscroll.org/,Newspaper/Magazine,70
+61,La Crosse Catholic Times,http://catholiclife.diolc.org/,Newspaper/Magazine,40
+62,Town of Cicero News Wire,http://ciceronewswire.blogspot.com/,Online Only,16
+63,Heard in Central Flordia:  CMF Public Media,http://cmfmedia.org/section/hcf/,Online Only,59
+64,KJAC FM 105.5,http://coloradosound.org/,Radio Station,12
+65,Coppell Student Media,http://coppellstudentmedia.com/,Online Only,17
+66,Biddeford Courier,http://courier.mainelymediallc.com/,Newspaper/Magazine,11
+67,W227CR 93.3 FM,http://covnetpres.org/,Radio Station,15
+68,CU Independent,http://cuindependent.com/,Newspaper/Magazine,12
+69,Central Valley Business Journal,http://cvbj.biz/,Newspaper/Magazine,81
+70,De Laredo Blog,http://delaredo.blogspot.com/,Online Only,43
+71,NA,http://delawarepublic.org/,Radio Station,21
+72,Delaware State News and Maryland State News,http://delawarestatenews.net/,Newspaper/Magazine,21
+73,NA,http://denversports760.iheart.com/,Radio Station,85
+74,East County Today,http://eastcountytoday.net/,Newspaper/Magazine,4
+75,WMAX AM 1440,http://espn961.iheart.com/,Radio Station,31
+76,NA,http://etvradio.org/#stream/0,Radio Station,71
+77,WXMI TV 17,http://fox17online.com/,TV Station,31
+78,WCOH AM 1400 Citicasters Licenses,http://foxsports1400.iheart.com/,Radio Station,58
+79,NA,http://foxsportstexarkana.com/,Radio Station,NA
+80,Free Press Publications,http://fpp.cc/,Online Only,38
+81,FPPradioNews,http://fppradio.com/,Radio Station,38
+82,Free Keene,http://freekeene.com/,Online Only,38
+83,KGVM-LP 95.9,http://gallatincommunityradio.org/,Radio Station,13
+84,KJZS-LP 106.3 FM,http://gbcmt.org/services/Radio,Radio Station,13
+85,Boulder Magazine,http://getboulder.com/,Newspaper/Magazine,12
+86,Glendale Daily Planet,http://glendaledailyplanet.com/,Radio Station,NA
+87,Glendora City News,http://glendoracitynews.com/,Online Only,29
+88,WGON-LP 103.7,http://graceradioofslidell.net/,Radio Station,75
+89,Hey Stamford,http://heystamford.com/,Online Only,79
+90,KUTY AM 1470 High Desert,http://highdesertbroadcasting.com/,Radio Station,62
+91,K43JD-D Channel 43,http://idahoptv.org/,TV Station,70
+92,KWG 1230,http://ihradio.com/,Radio Station,81
+93,InMenlo,http://inmenlo.com/,Online Only,51
+94,KHKE FM 89.5,http://iowapublicradio.org/,Radio Station,14
+95,Journal Gazette & Times Courier,http://jg-tc.com/,Newspaper/Magazine,15
+96,Joyce Clark Unfiltered,http://joyceclarkunfiltered.com/,Online Only,28
+97,KOEL 98.5 FM,http://k985.com/,Radio Station,14
+98,NA,http://katsfm.com/,Radio Station,100
+99,KBCO FM 97.3,http://kbco.iheart.com/,Radio Station,12
+100,KBOZ-FM 99.9,http://kboz.com/,Radio Station,13
+101,K288GY (KCPW) 105.5 Public Media,http://kcpw.org/,Radio Station,34
+102,KDHL AM 920,http://kdhlradio.com/,Radio Station,25
+103,K278BP KFXN 100.3,http://kfan.iheart.com/,Radio Station,19
+104,KHOY FM 88.1 Catholic Communications,http://khoy.org/,Radio Station,43
+105,WLIQ 1530 AM,http://kickam1530.com/,Radio Station,69
+106,KKYR-FM 102.5 Kicker 102.5,http://kkyr.com/,Radio Station,NA
+107,NA,http://kmel.iheart.com/,Radio Station,91
+108,KMMS-AM 1450,http://kmmsam.com/,Radio Station,13
+109,KMPH-CD Transmit 49,http://kmph-kfre.com/,TV Station,52
+110,NA,http://kolu.com/,Radio Station,100
+111,KOSY 790 Rejoice Musical Soul Food,http://kosy790am.com/,Radio Station,84
+112,KROQ-FM 106.7 CBS Radio,http://kroq.cbslocal.com/,Radio Station,64
+113,Keene State College Equinox,http://kscequinox.com/,Newspaper/Magazine,38
+114,KTAR FM 92.3,http://ktar.com/,Radio Station,28
+115,KTVL Channel 10 CBS,http://ktvl.com/,TV Station,50
+116,KTXK 91.5 Fine Arts Radio,http://ktxk.org/,Radio Station,NA
+117,KVCB-LP Vacaville Christian Schools (100.9),http://kvcb-online.com/,Radio Station,88
+118,KWRN AM 1550,http://kwrn1550am.com/,Radio Station,5
+119,NA,http://kygl.com/,Radio Station,84
+120,The La Crosse Tribune,http://lacrossetribune.com/,Newspaper/Magazine,40
+121,WLEY 107.9 FM,http://laley1079.lamusica.com/,Radio Station,16
+122,NA,http://lapreciosa929.iheart.com/,Radio Station,90
+123,El Manana/Laredo Sun,http://laredosun.us/,Newspaper/Magazine,43
+124,Latino Times,http://latinotimes.org/,Newspaper/Magazine,81
+125,Lazo Cultural,http://lazocultural.com/,Newspaper/Magazine,31
+126,WJWC-LP,http://life973.com/,Radio Station,31
+127,WFIF AM 1500 K.W. Dolmar Religious,http://lifechangingradio.com/wfif/,Radio Station,NA
+128,Valley Stream Herald,http://liherald.com/valleystream/,Newspaper/Magazine,89
+129,NA,http://lite987.com/,Radio Station,87
+130,KITS-FM4,http://live105.cbslocal.com/,Radio Station,91
+131,WSNH-LP 103.9,http://loveatthecross.com/,Radio Station,31
+132,KGAM FM 106.3 Mapleton License,http://magia1063.com/,Radio Station,52
+133,NA,http://mega100fm.iheart.com/,Radio Station,81
+134,MGoBlog,http://mgoblog.com/,Online Only,3
+135,WVGR FM 104.1,http://michiganradio.org/,Radio Station,31
+136,WUOM FM 91.7,http://michiganradio.org/#stream/0,Radio Station,3
+137,Milford Living Magazine,http://milfordliving.com/,Newspaper/Magazine,NA
+138,K270AB 101.9,http://minnesota.publicradio.org/radio/stations/kzseklse/,Radio Station,96
+139,W227CG 93.3 FM,http://miradiopoderosa.com/,Radio Station,31
+140,KMMS-FM 95.1,http://mooseradio.com/,TV Station,13
+141,KZMY-FM 103.5,http://my1035.com/,Radio Station,13
+142,WLHT-FM 95.7,http://mychannel957.com/,Radio Station,31
+143,K214DF 90.7 FM,http://myfaithradio.com/,Radio Station,30
+144,Native American Netroots,http://nativeamericannetroots.net/,Online Only,3
+145,NA,http://new.tabernaculodelafeyakima.org/,2 and 3,100
+146,NA,http://newstalkkit.com/,Radio Station,100
+147,New West,http://newwest.net/,Online Only,12
+148,WEVN FM 90.7 New Hampshire Public Radio,http://nhpr.org/,Radio Station,38
+149,KTFD-DTV 14,http://noticias.entravision.com/colorado/,TV Station,NA
+150,KLDO-DTV Entravision Holdings 27,http://noticias.entravision.com/laredo/,TV Station,43
+151,KYVT 88.5  Northwest Public Radio,http://nwpr.org/,Radio Station,100
+152,Onward State,http://onwardstate.com/,Online Only,80
+153,Orange Peel Gazette,http://opgazetteinc.com/,Newspaper/Magazine,78
+154,KRTA AM 610 Opus,http://opusradio.com/610am/,Radio Station,50
+155,KEZX AM 730 Opus,http://opusradio.com/730am/,Radio Station,50
+156,Osceola Woman,http://osceolawoman.com/,Newspaper/Magazine,78
+157,Ohio State at Marion News,http://osumarion.osu.edu/news/,Online Only,49
+158,The Pasadena/San Gabriel Valley Journal,http://pasadenajournal.com/,Newspaper/Magazine,64
+159,Pasadena Magazine,http://pasadenamag.com/,Newspaper/Magazine,64
+160,Belmont Patch,http://patch.com/california/belmont-ca,Online Only,8
+161,Glendora Patch,http://patch.com/california/glendora,Online Only,29
+162,Menlo Park-Atherton Patch,http://patch.com/california/menlopark-atherton,Online Only,51
+163,Pasadena Patch,http://patch.com/california/pasadena-ca,Online Only,64
+164,Milford Patch,http://patch.com/connecticut/milford,Online Only,NA
+165,Stamford Patch,http://patch.com/connecticut/stamford,Online Only,79
+166,Acworth Patch,http://patch.com/georgia/acworth,Online Only,1
+167,Marietta Patch,http://patch.com/georgia/marietta,Online Only,48
+168,Woodstock-Towne Lake Patch,http://patch.com/georgia/woodstock,Online Only,98
+169,Darien Patch,http://patch.com/illinois/darien-il,Online Only,20
+170,Cedar Falls Patch,http://patch.com/iowa/cedarfalls,Online Only,14
+171,Beverly Patch,http://patch.com/massachusetts/beverly,Online Only,10
+172,Royal Oak Patch,http://patch.com/michigan/royaloak,Online Only,73
+173,Golden Valley Patch,http://patch.com/minnesota/goldenvalley,Online Only,30
+174,Minnetonka Patch,http://patch.com/minnesota/minnetonka,Online Only,55
+175,Woodbury Patch,http://patch.com/minnesota/woodbury,Online Only,97
+176,Strongsville Patch,http://patch.com/ohio/strongsville,Online Only,82
+177,Sammamish-Issaquah Patch,http://patch.com/washington/sammamish,Online Only,37
+178,Paterson Times,http://patersontimes.com/,Newspaper/Magazine,65
+179,New Hope-Golden Valley Sun Post,http://post.mnsun.com/new-hope/,Newspaper/Magazine,30
+180,KQCL FM 95.9,http://power96radio.com/,Radio Station,25
+181,KWSX 1280,http://powertalk1280.iheart.com/,Radio Station,81
+182,KFIV Powertalk 1360 AM,http://powertalk1360.iheart.com/,Radio Station,51
+183,NA,http://powertalk967.iheart.com/,Radio Station,90
+184,K250AZ WTPM FM 97.9 Prayz Network,http://prayznetwork.com/,Radio Station,40
+185,Punjab Star News,http://punjabstarnews.com/,Newspaper/Magazine,18
+186,KDIS AM 1110 Children's,http://radio.disney.com/,Radio Station,64
+187,WTRV-FM,http://rivergrandrapids.com/,Radio Station,31
+188,Sun Sailor,http://sailor.mnsun.com/minnetonka/,Newspaper/Magazine,55
+189,"Great Lakes, Great Times, Great Scott",http://scottyurb.blogspot.com/,Online Only,31
+190,South Portland Sentry,http://sentry.mainelymediallc.com/,Newspaper/Magazine,11
+191,Serendipity Magazine,http://serendipitysocial.com/,Newspaper/Magazine,79
+192,Serve Daily,http://servedaily.com/,Newspaper/Magazine,77
+193,Slidell Independent,http://slidell-independent.com/,Newspaper/Magazine,75
+194,NA,http://southsidebaptistrh.org/,Radio Station,71
+195,NA,http://spirit889.com/,Radio Station,90
+196,Stamford Daily Voice,http://stamford.dailyvoice.com/,Online Only,79
+197,Stamford Downtown Events,http://stamforddowntownevents.blogspot.com/,Online Only,79
+198,Coppell Gazette,http://starlocalmedia.com/coppellgazette/,Newspaper/Magazine,17
+199,The Mesquite News,http://starlocalmedia.com/mesquitenews/,Newspaper/Magazine,53
+200,Flower Mound Leader,http://starlocalmedia.com/theleader/,Newspaper/Magazine,26
+201,WQUB 90.3,http://stlpublicradio.org/quincy/,Radio Station,69
+202,Street Fight,http://streetfightmag.com/,Online Only,12
+203,Fault Lines,http://strikeslip.blogspot.com/,Online Only,87
+204,WSNI FM 97.7 Sunny 97,http://sunnykeene.com/,Radio Station,38
+205,The Tammany West,http://tammanywest.com/,Newspaper/Magazine,75
+206,The Antelope Valley Times,http://theavtimes.com/,Online Only,62
+207,The Daily Mississipian (The DM Online):  Univ of MS,http://thedmonline.com/,Newspaper/Magazine,61
+208,University of Wisconsin-LaCrosse - UWLAX Racquet,http://theracquet.org/,Newspaper/Magazine,40
+209,Alton Telegraph,http://thetelegraph.com/,Newspaper/Magazine,2
+210,WHRZ LP 104.1,http://thez.com/,Radio Station,76
+211,Newnan Times-Herald,http://times-herald.com/,Newspaper/Magazine,58
+212,The Newnan-Coweta Magazine,http://times-herald.com/magazine,Newspaper/Magazine,58
+213,WNWZ 1410 AM,http://touch1410.com/,Radio Station,31
+214,KDIZ AM 1570,http://twincitieswellnessradio.com/,Radio Station,30
+215,TXKtoday,http://txktoday.com/,Online Only,NA
+216,Utica Phoenix,http://uticaphoenix.net/,Newspaper/Magazine,87
+217,Vacuum weblog for Edward Vielmetti,http://vielmetti.github.io/,Online Only,3
+218,WFTD 1080 AM Viet Song Media,http://vietsongmedia.com/,Radio Station,48
+219,Voices of Central Pennsylvania,http://voicesweb.org/,Newspaper/Magazine,80
+220,WZGL FM 88.1,http://wbgl.org/,Radio Station,22
+221,W277AH 103.3 FM,http://wceiradio.com/,Radio Station,21
+222,Waterloo Cedar Falls Courier,http://wcfcourier.com/,Newspaper/Magazine,14
+223,WCOE FM 96.7 Country,http://wcoefm.com/,Radio Station,41
+224,WCYY FM 94.3,http://wcyy.com/,Radio Station,11
+225,NA,http://wdov.iheart.com/,Radio Station,21
+226,WDSD FM 94.7,http://wdsd.iheart.com/,Radio Station,21
+227,NA,http://welw.com/,Radio Station,95
+228,WSRW FM 105.7,http://westmichiganstar.iheart.com/,Radio Station,31
+229,WFGR FM 98.7,http://wfgr.com/,Radio Station,31
+230,WGIN 1400 AM,http://wgan.com/,Radio Station,11
+231,NA,http://wgrc.com/,Radio Station,80
+232,WGRD-FM 97.9,http://wgrd.com/,Radio Station,31
+233,WGVU AM 1480,http://wgvu2.org/realoldies/,Radio Station,31
+234,WIBX 950,http://wibx950.com/,Radio Station,87
+235,W42DG-D Channel 42,http://wjactv.com/,TV Station,80
+236,NA,http://wjti1640.com,Radio Station,92
+237,WZBK AM 1290;,http://wkbkradio.com/,Radio Station,38
+238,WKDQ FM 99.5 Country Music,http://wkdq.com/,Radio Station,33
+239,w256BJ FM 99.1 Classic Hits,http://wkne.com/,Radio Station,38
+240,WKUE FM 90.9,http://wkyufm.org/,Radio Station,23
+241,W36BE-D Channel 36,http://wnep.com/,Radio Station,80
+242,WEDW-FM 88.5,http://wnpr.org/,Radio Station,79
+243,WOOD AM 1300,http://woodradio.iheart.com/,Radio Station,31
+244,WOOD TV 8,http://woodtv.com/,TV Station,31
+245,WNEA AM 1300 Word Christian,http://wordchristianbroadcasting.com/wnea/,Radio Station,58
+246,WOSB The Ohio State University,http://wosu.org/,Radio Station,49
+247,WOTV TV 4,http://wotv4women.com/,TV Station,31
+248,NA,http://wour.com/,Radio Station,87
+249,NA,http://wpsu.org/,Radio Station,80
+250,WHLA-TV 31 State of WI - Ed Comm. Board,http://wpt.org/,TV Station,40
+251,WQIN LP 102.9,http://wqinfm.org/,Radio Station,69
+252,WQJC LP 107.9,http://wqjcfm.myfreesites.net/,Radio Station,69
+253,WRLL AM 1450,http://wrll1450.com/,Radio Station,16
+254,WRTX FM 91.7,http://wrti.org/,Radio Station,21
+255,W245 96.9 FM,http://wsbrradio.com/,Radio Station,44
+256,WSTC 1400,http://wshu.org/,Radio Station,79
+257,WSLA 1560 Talk Radio,http://wslaradio.com/,Radio Station,75
+258,WSON AM 860 and w243CU FM (WSON) 96.5,http://wsonradio.com/,Radio Station,33
+259,WSPA TV Channel 7,http://wspa.com/,TV Station,76
+260,WTKG AM 1230,http://wtkg.iheart.com/,Radio Station,31
+261,NA,http://wtlr.org/,Radio Station,80
+262,NA,http://wvik.org/#stream/0,Radio Station,72
+263,WWGH - Marion's LP Radio Station,http://wwgh1071.com/2016/,Radio Station,49
+264,K257FY 101.7 Hot FM,http://www.1017hotfm.com/,Radio Station,NA
+265,WXOS 101.1 FM,http://www.101sports.com/,Radio Station,22
+266,WBUZ 102.9 The Buzz,http://www.1029thebuzz.com/,Radio Station,42
+267,KXDD 104.1 12 in a Row Country,http://www.1041kxdd.com/,Radio Station,100
+268,WSFS FM 104.3 Entercom Miami,http://www.1043theshark.com/,Radio Station,56
+269,W288BN FM 105.5 WYRY  Country,http://www.1049nashiconradio.com/,Radio Station,38
+270,KIFS 107.5 FM KISS,http://www.107kiss.com/,Radio Station,50
+271,WLBY AM 1290,http://www.1290wlby.com/,Radio Station,3
+272,WJRW AM 1340,http://www.1340wjrw.com/,Radio Station,31
+273,WIZM-FM  92.3,http://www.1410wizm.com/,Radio Station,40
+274,KUTI 1460 ESPN Yakima,http://www.1460espnyakima.com/,Radio Station,100
+275,KYOS AM 1480 Mapleton License,http://www.1480kyos.com/,Radio Station,52
+276,KLNT AM 1490,http://www.1490therodeo.com/,Radio Station,43
+277,W281AU FM 104.1 WZBK,http://www.1490wkvt.com/,Radio Station,38
+278,WLFN AM 1490 Today's Talk 1490,http://www.1490wlfn.com/,Radio Station,40
+279,KCNZ AM 1650,http://www.1650thefan.com/,Radio Station,14
+280,Boulder 50 Plus Marketplace News,http://www.50plusmarketplacenews.com/,Online Only,12
+281,WKTY AM 580 Family Radio,http://www.580wkty.com/,Radio Station,40
+282,W288CJ FM 105.5 Penn. Media Associates,http://www.660theanswer.com/,Radio Station,59
+283,KTIQ AM 1660 Mapleton License/105.7 The Bear,http://www.925thebear.com/,Radio Station,52
+284,KWOF 101.7 FM,http://www.925thewolf.com/,Radio Station,12
+285,KQRS-FM 92.5,http://www.92kqrs.com/,Radio Station,30
+286,W265AV 100.9 The Bull,http://www.949thebull.com/,Radio Station,98
+287,KGMZ-FM1 95.7 The Game,http://www.957thegame.com/,Radio Station,91
+288,WRQT FM 95.7 Rock Station,http://www.957therock.com/,Radio Station,40
+289,KXPK 96.5 FM,http://www.965tricolor.com/,Radio Station,12
+290,KABX-FM 97.5 Mapleton License,http://www.975kabx.com/,Radio Station,52
+291,WJTI 1460,http://www.979radio.com/,Radio Station,92
+292,WVOK-FM 97.9 East Alabama's Fav. Music,http://www.979wvok.com/,Radio Station,61
+293,W252DG 98.3 FM (WLCS rebroadcast),http://www.983wlcs.com/,Radio Station,31
+294,KTAL-FM 98.1 98 Rocks - Home of Rock 'n' Roll,http://www.98rocks.fm/,Radio Station,NA
+295,KJOY 99.3,http://www.993kjoy.com/,Radio Station,81
+296,KMVQ-FM3 99.7 Now,http://www.997now.com/,Radio Station,91
+297,A2Politico,http://www.a2politico.com/,Online Only,3
+298,KWYB-TV 19,http://www.abcfoxmontana.com/,TV Station,13
+299,K214DN 90.7 Air 1,http://www.air1.com/,Radio Station,100
+300,The Almanac,http://www.almanacnews.com/,Newspaper/Magazine,51
+301,Alton Daily News,http://www.altondailynews.com/,Online Only,2
+302,KAZN AM 1300 Asian,http://www.am1300.com/,Radio Station,64
+303,Ann Arbor Business Review Magazine,http://www.annarborbusinessmagazine.com/,Newspaper/Magazine,3
+304,WQKL FM 107.1,http://www.annarbors107one.com/,Radio Station,3
+305,Apple Valley Review,http://www.applevalley-review.com/,Online Only,5
+306,KTAL-TV Channel 15,http://www.arklatexhomepage.com/,TV Station,NA
+307,Arroyo:  Fine Living in the Greater Pasadena Area,http://www.arroyomonthly.com/,Newspaper/Magazine,64
+308,Antelope Valley Press,http://www.avpress.com/,Newspaper/Magazine,62
+309,Bay City Democrat and the Bay County Legal News,http://www.bclegalnews.com/,Newspaper/Magazine,6
+310,K23EX-D Better Life TV Transmit 23,http://www.betterlifetv.tv/,TV Station,50
+311,KRRG FM 98.1 Encarnacion A. Guerra,http://www.bigbuck98.com/,Radio Station,43
+312,KBFR FB 95.3,http://www.boulderfreeradio.org/,Radio Station,12
+313,Boulder Weekly,http://www.boulderweekly.com/,Newspaper/Magazine,12
+314,Bozeman Magpie,http://www.bozeman-magpie.com/,Online Only,13
+315,Bozeman Daily Chronicle,http://www.bozemandailychronicle.com/,Newspaper/Magazine,13
+316,The Bright Side:  Marietta and Power Springs Community Newspaper,http://www.brightsidenews.com/marpsnews.html,Newspaper/Magazine,48
+317,KGDM-LP FM 105.3 Calvary Chapel,http://www.calvarychapelmerced.org/info.htm,Radio Station,52
+318,Calvin College Chimes,http://www.calvin.edu/chimes/,Newspaper/Magazine,31
+319,K244DV FM 96.7 and,http://www.capradio.org/,Radio Station,52
+320,Caravan News,http://www.caravannews.com/,Online Only,81
+321,WIHW-LP 96.1,http://www.cbcofdover.com/,Radio Station,21
+322,NA,http://www.ccyakimavalley.com/the-bridge-of-hope/,Radio Station,100
+323,KAMB FM 101.5 Celebration Radio,http://www.celebrationradio.com/,Radio Station,52
+324,Centre Daily Times,http://www.centredaily.com/,Newspaper/Magazine,80
+325,Elm Leaves,http://www.chicagotribune.com/suburbs/elmwood-park/,Newspaper/Magazine,24
+326,WFXV Channel 27,http://www.cnyhomepage.com/,TV Station,87
+327,WOCB-CD Central Ohio Association of Christian Broadcasters,http://www.coacb.org/,TV Station,49
+328,Daily Collegian,http://www.collegian.psu.edu/,Newspaper/Magazine,80
+329,Colorado Daily,http://www.coloradodaily.com/,Newspaper/Magazine,12
+330,Contra Costa Times,http://www.contracostatimes.com/,Newspaper/Magazine,91
+331,Coppell Citizens Advocate,http://www.coppellcitizensadvocate.com/,Newspaper/Magazine,17
+332,Cottonwood-Holladay Journal,http://www.cottonwoodholladayjournal.com/,Newspaper/Magazine,34
+333,Coulee Parenting Connection,http://www.cpclax.com/,Newspaper/Magazine,40
+334,KCFC AM 1490,http://www.cpr.org/,Radio Station,12
+335,KVOQ 102.3 FM,http://www.cpr.org/openair,Radio Station,12
+336,K48MN-D TV 12,http://www.cpt12.org/,TV Station,12
+337,The Cross Timbers Gazette,http://www.crosstimbersgazette.com/,Newspaper/Magazine,26
+338,K268AS 101.5 FM,http://www.csnradio.com/,Radio Station,100
+339,Milford-Orange Bulletin,http://www.ctbulletin.com/,Newspaper/Magazine,NA
+340,Community Television Network,http://www.ctnannarborblog.org/,TV Station,3
+341,Boulder Daily Camera,http://www.dailycamera.com/,Newspaper/Magazine,12
+342,The Daily Eastern News,http://www.dailyeasternnews.com/,Newspaper/Magazine,15
+343,Daily Tribune,http://www.dailytribune.com/,Newspaper/Magazine,73
+344,Damn Arbor,http://www.damnarbor.com/,Online Only,3
+345,Delaware Politics,http://www.delawarepolitics.net/,Online Only,21
+346,WUCX FM 90.1,http://www.deltabroadcasting.org/home/,Radio Station,6
+347,DetroitWonk,http://www.detroitwonk.com/,Online Only,73
+348,KQUR FM 94.9 Border Broadcasters,http://www.digital949.com/,Radio Station,43
+349,Dover Post,http://www.doverpost.com/,Newspaper/Magazine,21
+350,East County Times,http://www.eastbaytimes.com/east-county-times,Newspaper/Magazine,4
+351,The Issaquah Press,http://www.eastofseattle.news/issaquah/,Newspaper/Magazine,37
+352,K210DL 89.9 FM,http://www.effectradio.com/,Radio Station,5
+353,El Informador,http://www.elinformadorusa.com/,Online Only,99
+354,El Sol Del Desierto,http://www.elsoldeldesiertoav.com/,Online Only,62
+355,El Sol,http://www.elsolnews.com/,Newspaper/Magazine,79
+356,W281BD 104.1 FM,http://www.espn930.com/,Radio Station,21
+357,WTLB 1310,http://www.espncny.com/,Radio Station,87
+358,W246 BU 97.1,http://www.espnupstate.com/,Radio Station,76
+359,The East St. Louis Monitor,http://www.estlmonitor.com/,Newspaper/Magazine,22
+360,NA,http://www.estlmonitor.com,Newspaper/Magazine,NA
+361,KPXQ AM 1360,http://www.faithtalk1360.com/,Online Only,NA
+362,K287BS 105.3,http://www.familyradio.com/,Radio Station,81
+363,WJCH FM 106.9 Religious,http://www.familyradio.org/,Radio Station,41
+364,Faribault County Register,http://www.faribaultcountyregister.com/,Newspaper/Magazine,25
+365,Fort Knox Gold Standard,http://www.fkgoldstandard.com/,Newspaper/Magazine,23
+366,W268BB 101.5 Family Life Network,http://www.fln.org/,Radio Station,80
+367,NA,http://www.foreverstatecollege.com/espn-1450/,Radio Station,80
+368,NA,http://www.foreverstatecollege.com/happy-103/,Radio Station,80
+369,KMVU-DT Ch. 26 Fox,http://www.fox26medford.com/,TV Station,50
+370,WMYT-TV Channel 55,http://www.fox46charlotte.com/,TV Station,71
+371,WFGE 101.1 Froggy 101,http://www.froggy101fm.com/,Radio Station,80
+372,Glendale Star,http://www.glendalestar.com/,Newspaper/Magazine,28
+373,Glendora Community News,http://www.glendoracommunitynews.com/,Newspaper/Magazine,29
+374,WLPR 960,http://www.goforth.org/WLPR960/,Radio Station,68
+375,Tracy Press,http://www.goldenstatenewspapers.com/tracy_press/,Newspaper/Magazine,86
+376,Spartanburg Herald,http://www.goupstate.com/,Newspaper/Magazine,76
+377,Herald Review,http://www.grandrapidsmn.com/,Newspaper/Magazine,31
+378,Grand Rapids Business Journal,http://www.grbj.com/,Newspaper/Magazine,31
+379,GRTV,http://www.grcmc.org/grtv,TV Station,31
+380,NA,http://www.grcmc.org/wyce/,Radio Station,99
+381,GRNow,http://www.grnow.com/,Online Only,31
+382,WGVV-LP 92.5 Groove 92.5,http://www.groove925.com/,Radio Station,72
+383,Grand Rapids Times,http://www.grtimes.com/,Newspaper/Magazine,31
+384,KINE AM 1330,http://www.hawaiian105.com/,Radio Station,39
+385,LaPorte Herald-Argus,http://www.heraldargus.com/,Newspaper/Magazine,41
+386,The Herald,http://www.heraldonline.com/,Newspaper/Magazine,71
+387,KNEX FM 106.1 MBM Radio Larado,http://www.hot1061.net/,Radio Station,43
+388,W231 BA 94.1,http://www.hot981.com/,Radio Station,76
+389,If the River Swells,http://www.iftheriverswells.com/,Online Only,31
+390,InnerCircle Corona,http://www.innercirclecorona.com/,Online Only,18
+391,Issaquah 360,http://www.issaquah360.com/,Online Only,37
+392,Issaquah/Sammamish Reporter,http://www.issaquahreporter.com/,Newspaper/Magazine,37
+393,York County Journal Tribune,http://www.journaltribune.com/,Newspaper/Magazine,11
+394,KALI Radio Zion,http://www.kali900am.com/,Radio Station,94
+395,KBNL FM 89.9 World Radio Network Inc,http://www.kbnl.org/,Radio Station,43
+396,KBZK-TV 7,http://www.kbzk.com/,TV Station,13
+397,KCFI AM 1250,http://www.kcfiradio.com/,Radio Station,14
+398,KCMX 880,http://www.kcmxam.com/,Radio Station,50
+399,K250BG 97.9 FM,http://www.kdkr.org/,Radio Station,32
+400,KDNA 91.9 La Voz del Campesino,http://www.kdna.org/,Radio Station,100
+401,KDRV Channel 12 Oregon TV ABC,http://www.kdrv.com/,TV Station,50
+402,KEOM FM 88.5 Mesquite Independent School District,http://www.keom.fm/,Radio Station,53
+403,WKZT TV 23 (PBS),http://www.ket.org/,TV Station,23
+404,KFFM 107.3 Today's Hit Music,http://www.kffm.com/,Radio Station,100
+405,K203BR 88.5 Beautiful Sacred Music,http://www.kfsi.org/,Radio Station,96
+406,KFTX FM 97.5 Real Country,http://www.kftx.com/,Radio Station,39
+407,KGLT-FM 91.9,http://www.kglt.net/,Radio Station,13
+408,KGNS 8 NBC,http://www.kgns.tv/,TV Station,43
+409,KGNU AM 1390,http://www.kgnu.org/,Radio Station,12
+410,WQCC FM 106.3 Mississippi,http://www.kicks1063.com/,Radio Station,40
+411,Kingsville Record and Bishop News,http://www.kingsvillerecord.com/,Newspaper/Magazine,39
+412,KKDV 92.1 Diablo Valley's Hometown Station,http://www.kkdv.com/,Radio Station,91
+413,KKIQ-FM2 101.7 Your Hometown Station,http://www.kkiq.com/,Radio Station,86
+414,WLKB FM 89.1,http://www.klove.com/,Radio Station,6
+415,KMDY W209 ch 89.7,http://www.kmdy.org/,Radio Station,69
+416,KMED AM 1440 Biocoastal,http://www.kmed.com/,Radio Station,50
+417,KFAZ-CA Channel 18 Azteca America,http://www.kmsgtv.com/,TV Station,90
+418,KNXT Channel 50 Catholic Television,http://www.knxt.tv/,TV Station,90
+419,"KOFK-LP 88.5, 98.3",http://www.kofkradio.org/,Radio Station,13
+420,KVKL 105.1 FM,http://www.kool105.com/,Radio Station,12
+421,K13UF-D Channel 13,http://www.kpvi.com/,TV Station,70
+422,"W299AC KQYB FM 107.7 Family Radio, Inc.",http://www.kq98.com/,Radio Station,40
+423,KQAL 89.5 Your Radio Alternative,http://www.kqal.org/,Radio Station,96
+424,K31KK-D Transmit channel 31 KDF,http://www.kristv.com/category/293859/kdf,TV Station,39
+425,"KTAI FM 91.1 Texas A&M, Kingsville",http://www.ktaifm.com/,Radio Station,39
+426,KTEV-LP Channel 19,http://www.ktev-tv.com/,TV Station,84
+427,KTOY 104.7 Jammin' 104,http://www.ktoy1047.com/,Radio Station,84
+428,W50DR-D KTTC Transmit 50 NBC,http://www.kttc.com/,TV Station,40
+429,KUIC (95.3),http://www.kuic.com/,Radio Station,88
+430,KUPI-FM 99.1 King of Country,http://www.kupi99.com/,Radio Station,70
+431,KVLP-LP 101.5,http://www.kvlp.org/,Radio Station,90
+432,KSMD 1300,http://www.kwck999.com/,Radio Station,74
+433,KWDC-LP 93.5,http://www.kwdcradio.org/,Radio Station,81
+434,KWRM-AM 1370,http://www.kwrm1370am.com/,Radio Station,18
+435,KYAK 930 Yakima's Christian Voice,http://www.kyak.com/,Radio Station,100
+436,KYCC 90.1,http://www.kycc.org/,Radio Station,81
+437,KYGO 98.5 FM,http://www.kygo.com/,Radio Station,12
+438,WIWA 1160 La Estacion Del Pueblo,http://www.laestaciondelpueblo.com/,Radio Station,78
+439,WKBF 1270 La Jefa 1270,http://www.lajefa1270.com/,Radio Station,72
+440,KBDR-FM1 100.5,http://www.laley1005.com/,Radio Station,43
+441,W263BJ FM 100.5 Mid-way radio/ WNTA 1330 AM,http://www.lamovidaradiorockford.com/,Radio Station,47
+442,K241AJ FM 96.1 Family Stations,http://www.laquebuena961.com/,Radio Station,62
+443,KMNY AM 1360,http://www.lavoz1360dallas.com/,Radio Station,35
+444,Lawndale News,http://www.lawndalenews.com/,Newspaper/Magazine,16
+445,Life in Corona,http://www.lifeincorona.com/,Online Only,18
+446,WGON 89.1 Lifesongs 89.1,http://www.lifesongs.com/,Radio Station,75
+447,Laredo Morning Times,http://www.lmtonline.com/,Newspaper/Magazine,43
+448,El Tiempo de Laredo,http://www.lmtonline.com/el_tiempo/,Newspaper/Magazine,43
+449,K22IK-D Channel 22,http://www.localnews8.com/,TV Station,70
+450,Lucerne Valley Leader,http://www.lucernevalleyleader.com/,Online Only,5
+451,WSPA FM 98.9,http://www.magic989.com/,Radio Station,76
+452,Mail Tribune,http://www.mailtribune.com/,Online Only,50
+453,Marion Online News,http://www.mariononline.com,Online Only,49
+454,The Marion Star,http://www.marionstar.com,Newspaper/Magazine,49
+455,"WMNO-CD Positive News Network, Inc.",http://www.mariontv22.com/,TV Station,49
+456,Merced County News Television,http://www.mcntvnews.com/,TV Station,52
+457,Marietta Daily Journal,http://www.mdjonline.com/,Newspaper/Magazine,48
+458,Cobb Business Journal,http://www.mdjonline.com/cobb_business_journal/,Newspaper/Magazine,48
+459,Cobb Football Friday,http://www.mdjonline.com/cobb_football_friday/,Newspaper/Magazine,48
+460,Neighbor News,http://www.mdjonline.com/neighbor_newspapers/,Newspaper/Magazine,48
+461,Medford Nickel Classifieds,http://www.medfordnickel.com/,Newspaper/Magazine,50
+462,Merced County Times,http://www.mercedcountytimes.net/,Newspaper/Magazine,52
+463,Merced Sun-Star,http://www.mercedsunstar.com/,Newspaper/Magazine,52
+464,Milford CT Blog,http://www.milfordctblog.com/,Online Only,NA
+465,Milford Mirror,http://www.milfordmirror.com/,Newspaper/Magazine,NA
+466,KIMN 100.3 FM,http://www.mix100.com/,Radio Station,12
+467,Ann Arbor News (redirects from AnnArbor.com),http://www.mlive.com/ann-arbor/,Newspaper/Magazine,3
+468,The Bay City Times (online at MLive),http://www.mlive.com/bay-city/,Newspaper/Magazine,6
+469,West Michigan Business Review Magazine,http://www.mlive.com/businessreview/,Newspaper/Magazine,31
+470,Grand Rapids Press,http://www.mlive.com/grand-rapids/,Newspaper/Magazine,31
+471,KUSM-TV 9,http://www.montanapbs.org/,TV Station,13
+472,Mountain Gazette Magazine,http://www.mountaingazette.com/,Newspaper/Magazine,12
+473,WMEA TV 45,http://www.mpbn.net/,TV Station,11
+474,KMCW-LP Broadcasting Licenses MundoMax,http://www.mundomax.com/,TV Station,50
+475,WHNN FM 96.1,http://www.my961.com/,Radio Station,6
+476,K248BX 97.5 My 97.5,http://www.my975fm.com/,Radio Station,90
+477,My Bay City,http://www.mybaycity.com,Online Only,6
+478,KBGY FM 107.5,http://www.mybobcountry.com/,Radio Station,25
+479,KXOF-CD Extravision Fox 39,http://www.mylaredofox.com/,TV Station,43
+480,Ocean Style,http://www.myoceanstyle.com/,Newspaper/Magazine,56
+481,KARM 89.7 Promise FM,http://www.mypromisefm.com/,Radio Station,90
+482,WWGO FM 92.1,http://www.myradiolink.com/,Radio Station,15
+483,W294BN 106.7 FM,http://www.myreachradio.com/,Radio Station,21
+484,KDBZ-TV 6,http://www.nbcmontana.com/,TV Station,13
+485,WQEC West Central Illinois Educational Channel 34,http://www.networkknowledge.tv/,TV Station,69
+486,New Berlin Now,http://www.newberlinnow.com/,Newspaper/Magazine,57
+487,KHHK 99.7 Hot 99.7,http://www.newhot997.com/,Radio Station,100
+488,The News-Herald,http://www.news-herald.com/,Newspaper/Magazine,95
+489,WKBT-DT QueenB Television,http://www.news8000.com/,TV Station,40
+490,WXMF Kayser Broadcast Ministries Inc,http://www.newvision.fm/,Radio Station,49
+491,WEKW New Hampsure Public Television,http://www.nhptv.org/,TV Station,38
+492,Northern Iowan,http://www.northerniowan.com/,Newspaper/Magazine,14
+493,Nowiny Rekord,http://www.nowiny24.pl/,Newspaper/Magazine,87
+494,K256BS (KODV) FM 99.1 Ondas,http://www.ondasdevida.com/,Radio Station,62
+495,OutBoulder,http://www.outboulder.org/blog,Online Only,12
+496,Owassoisms,http://www.owassoisms.com/,Online Only,60
+497,The Oxford Eagle,http://www.oxfordeagle.com/,Newspaper/Magazine,61
+498,The Parma Observer,http://www.parmaobserver.com/,Online Only,63
+499,Pasadena Now,http://www.pasadenanow.com/main/,Newspaper/Magazine,64
+500,Pasadena Star-News,http://www.pasadenastarnews.com/,Newspaper/Magazine,64
+501,Rose Magazine,http://www.pasadenastarnews.com/rose-parade,Newspaper/Magazine,64
+502,Pasadena Weekly,http://www.pasadenaweekly.com/cms/index/,Newspaper/Magazine,64
+503,PCC (Pasadena City College) Courier,http://www.pcccourier.com/,Newspaper/Magazine,64
+504,KYPL 91.1 Positive Life Radio,http://www.plr.org/,Radio Station,100
+505,Between the Lines (known as PrideSource online),http://www.pridesource.com/,Online Only,3
+506,W237CZ 95.3 FM (WPRR rebroadcast),http://www.publicrealityradio.org/,Radio Station,31
+507,WQCY FM 103.8,http://www.q104wqcy.com/,Radio Station,69
+508,KSEQ 97.1 Fresno's #1 Hip-Hop Station,http://www.q97.com/,Radio Station,90
+509,WQXE FM 98.3,http://www.quicksie983.com/,Radio Station,23
+510,KVCU AM 1190,http://www.radio1190.org/,Radio Station,12
+511,KZBN-FM 90.3,http://www.radio74.net/,Radio Station,13
+512,KBKY FM 94.1 Radio Alfa y Omega,http://www.radioalfayomega941fm.com/,Radio Station,52
+513,NA,http://www.radioamistad.net/ra/,Radio Station,NA
+514,KGIC-LP 105.5 FM,http://www.radioimpacto.org/,Radio Station,18
+515,K226BA FM 93.1 WKLBD,http://www.radiolibertad.net/,Radio Station,39
+516,KLAR AM 1300 Faith and Power Comm Inc,http://www.radiopoder1300.com/,Radio Station,43
+517,WRVU-LP,http://www.radiovisioncdr.com/,Radio Station,31
+518,The Record,http://www.recordnet.com/,Newspaper/Magazine,81
+519,WRYV-FM1 88.7 Central Pennsylvania's RevFM,http://www.revfm.net/,Radio Station,80
+520,Standard Journal,http://www.rexburgstandardjournal.com/,Newspaper/Magazine,70
+521,Riverbender.com,http://www.riverbender.com/,Online Only,2
+522,K24HQ-D TV 6,http://www.rmpbs.org/home/,TV Station,12
+523,KKBA FM 92.7,http://www.rock927.com/,Radio Station,39
+524,Rossmoor News,http://www.rossmoornews.com/,Newspaper/Magazine,91
+525,The Salem News,http://www.salemnews.com/,Newspaper/Magazine,10
+526,WNSC Channel 30,http://www.scetv.org/,TV Station,76
+527,St. Cloud in the News,http://www.scinthenews.com/,Online Only,78
+528,KPCC FM 89.3 Pasadena Area Community College,http://www.scpr.org/,Radio Station,64
+529,WSBZ FM 106.3 Carter Broadcasting,http://www.seabreeze.fm/,Radio Station,56
+530,Searcy Living,http://www.searcyliving.net/,Newspaper/Magazine,74
+531,Seminole Voice,http://www.seminolevoice.com/,Online Only,59
+532,Keene Sentinel,http://www.sentinelsource.com/,Newspaper/Magazine,38
+533,San Gabriel Valley Examiner,http://www.sgvexaminer.com/home.htm,Newspaper/Magazine,29
+534,San Gabriel Valley Tribune (Glendora/San Dimas/La Verne Highlander),http://www.sgvtribune.com/,Newspaper/Magazine,NA
+535,Monadnock Shopper News,http://www.shoppernews.com/,Newspaper/Magazine,38
+536,K211EY (KHMS) FM 90.1 Faith Communications Corp.,http://www.sosradio.net/,Radio Station,62
+537,WXPS LP 92.1,http://www.soundoftruthradio.org/,Radio Station,76
+538,Faribault Daily News,http://www.southernminn.com/faribault_daily_news/,Newspaper/Magazine,25
+539,The South Texan:  Texas A&M - Kingsville,http://www.southtexannews.com/,Newspaper/Magazine,39
+540,Spartan Weekly News,http://www.spartanweeklyonline.com/,Newspaper/Magazine,76
+541,Stamford Advocate,http://www.stamfordadvocate.com/,Newspaper/Magazine,79
+542,Stamford Plus,http://www.stamfordplus.com/,Newspaper/Magazine,79
+543,StateCollege.com,http://www.statecollege.com/,Online Only,80
+544,State College Magazine,http://www.statecollegemagazine.com/,Newspaper/Magazine,80
+545,WCXG FM 89.7 FM,http://www.strongtowerradio.org/,Radio Station,31
+546,South Washington County Bulletin,http://www.swcbulletin.com/,Newspaper/Magazine,19
+547,Lakeshore Weekly News,http://www.swnewsmedia.com/lakeshore_weekly/,Newspaper/Magazine,55
+548,KIXW AM 960,http://www.talk960.com/,Radio Station,5
+549,K40KB Channel 40,http://www.tbn.org/,TV Station,13
+550,WFHD TV 27,http://www.tct.tv/,Newspaper/Magazine,3
+551,KNSO Channel 51 NBC Telemundo License LLC,http://www.telemundo51fresno.com/,TV Station,52
+552,KVEA TV 52,http://www.telemundo52.com/,TV Station,18
+553,Texarkana Gazette,http://www.texarkanagazette.com/,Newspaper/Magazine,NA
+554,KTFS 740 Talk Radio 740,http://www.texarkanaradio.com/,Radio Station,NA
+555,The Bridge:  Texas A&M International Univ.,http://www.thebridgenewspaper.com/,Newspaper/Magazine,43
+556,WBSF TV 46,http://www.thecw46.com/,TV Station,6
+557,The Daily Citizen,http://www.thedailycitizen.com/,Newspaper/Magazine,74
+558,KDOV 91.7 FM and,http://www.thedove.us/,Radio Station,50
+559,KBBO 1390 The Fan,http://www.thefanyakima.com/,Radio Station,100
+560,Gallatin County News,http://www.thegallatincountynews.com/pages/index.php,Newspaper/Magazine,13
+561,The Gleaner,http://www.thegleaner.com/,Newspaper/Magazine,33
+562,KRSE 105.7 The Hawk,http://www.thehawkyakima.com/,Radio Station,100
+563,WWDL 91.3 The Life FM,http://www.thelifefm.com/,Radio Station,67
+564,WKPS 90.7 The Lion 90.7 FM,http://www.thelion.fm/,Radio Station,80
+565,The Neighborhood News: The Garfield Heights Tribune,http://www.theneighborhoodnews.com/,Newspaper/Magazine,27
+566,The News-Enterprise,http://www.thenewsenterprise.com/,Newspaper/Magazine,23
+567,Ann Arbor Jounral (A2) (now named The News Herald?),http://www.thenewsherald.com/,Newspaper/Magazine,3
+568,Antioch Press,http://www.thepress.net/,Newspaper/Magazine,4
+569,W293AB FM 106.5 WHDQ,http://www.theqrocks.com/,Radio Station,38
+570,Rapidian,http://www.therapidian.org/,Online Only,31
+571,Reporter,http://www.thereporter.com/,Newspaper/Magazine,88
+572,Rooster Magazine,http://www.therooster.com/,Online Only,12
+573,The Sentinel Weekly,http://www.thesentinelweekly.com/,Newspaper/Magazine,18
+574,WTCK 96.7 FM,http://www.theticket.com/,Radio Station,26
+575,Update Shopper,http://www.theupstateshopper.com/,Newspaper/Magazine,76
+576,The Valley Chronicle,http://www.thevalleychronicle.com/,Newspaper/Magazine,32
+577,Tidbits of Marietta,http://www.tidbitsweekly.com/publisher/tidbits_marietta/index.php?p=1_3_Read-Tidbits-Online,Newspaper/Magazine,48
+578,Cherokee Trubine & Ledger-News,http://www.tribuneledgernews.com/local_news/,Newspaper/Magazine,98
+579,KMIX 100.9 Radio Tricolor,http://www.tricolor1009.com/,Radio Station,86
+580,KLNZ FM 103.5,http://www.tricolor1035.com/,Radio Station,28
+581,WDES-CD Transmit Channel 35 Beach TV,http://www.tripsmarter.com/,TV Station,56
+582,WWWW FM 102.9,http://www.w4country.com/,Radio Station,3
+583,WAAM AM 1600,http://www.waamradio.com/,Radio Station,3
+584,W222CD 92.3 FM,http://www.waky1035.com/,Radio Station,23
+585,WBBL FM 107.3,http://www.wbbl.com/,Radio Station,31
+586,WBGZ AM 1570,http://www.wbgzradio.com/,Radio Station,2
+587,NA,http://www.wbkv.com/,Radio Station,93
+588,WCBN-FM 88.3,http://www.wcbn.org/,Radio Station,3
+589,WCEV AM 1450,http://www.wcev1450.com/,Radio Station,16
+590,WCHW FM 91.3,http://www.wchwonline.freewebspace.com/,Radio Station,6
+591,W22DO-D Channel 22,http://www.wcny.org/,TV Station,87
+592,WCOY 99.5,http://www.wcoy.com/,Radio Station,69
+593,WCSG FM 91.3,http://www.wcsg.org/,Radio Station,31
+594,WEIU FM 88.9,http://www.weiu.net/,2 and 3,15
+595,West Allis NOW,http://www.westallisnow.com/,Newspaper/Magazine,92
+596,NA,http://www.wexl1340.com/,Radio Station,73
+597,WFUR-FM 102.9,http://www.wfuramfm.com/,Radio Station,31
+598,"W256BH FM 99.1 ""The Fox"" and",http://www.wfzxthefox.com/,Radio Station,61
+599,WGCA 88.5 FM,http://www.wgca.org/,Radio Station,69
+600,WGEM Channel 10,http://www.wgem.com/,Radio Station,69
+601,WGVU TV 35,http://www.wgvu.org/home/,TV Station,31
+602,Quincy Herald Whig,http://www.whig.com/,Newspaper/Magazine,69
+603,WHVL-LD Channel 27,http://www.whvl.com/,TV Station,80
+604,WIJD 1270 Radio That Changes the Way You Live,http://www.wilkinsradio.com/,Radio Station,68
+605,Winona Daily News,http://www.winonadailynews.com/,Newspaper/Magazine,96
+606,Winona Post,http://www.winonapost.com/,Newspaper/Magazine,96
+607,KWNO 1230 AM 12 3 Oh,http://www.winonaradio.com/,Radio Station,96
+608,WIOG FM 102.5,http://www.wiog.com/,Radio Station,6
+609,WLAX - 25 Nexstar Broadcasting,http://www.wiproud.com/,TV Station,40
+610,WJNT AM 1180 Mississippi Talk Radio,http://www.wjnt.com/,Radio Station,66
+611,WKHX 101.5 FM,http://www.wkhx.com/,Radio Station,48
+612,WKNH FM 91.3 Keene State College,http://www.wknh.org/,Radio Station,38
+613,WKTV Channel 29,http://www.wktv.com/,TV Station,87
+614,WLAV-FM 96.9,http://www.wlav.com/,Radio Station,31
+615,WLXR-FM 104.9 Mississippi Valley,http://www.wlxr.com/,Radio Station,40
+616,WMDE TV 36,http://www.wmdetv.com/,TV Station,21
+617,WEVD-LP,http://www.wmdt.com/,TV Station,21
+618,WNEM TV 5,http://www.wnem.com/,TV Station,6
+619,W283AK 104.5 FM,http://www.wolf943.com/,Radio Station,23
+620,NA,http://www.woli-am.com,Radio Station,76
+621,NA,http://www.woli-fm.com,Radio Station,76
+622,Woodbury Bulletin,http://www.woodburybulletin.com/,Newspaper/Magazine,97
+623,WPAT AM 930 Multicultural Radio Broadcasting,http://www.wpat930am.com/,Radio Station,65
+624,WHLA FM 90.3 Univ.,http://www.wpr.org/whla-fm-903-la-crosse,Radio Station,40
+625,WLSU 88.9 State of WI,http://www.wpr.org/wlsu-fm-889-la-crosse,Radio Station,40
+626,NA,http://www.wqjcfm.com,Radio Station,69
+627,WQQX AM 1490,http://www.wqqx1490am.com/,Radio Station,22
+628,W232AX 94.3,http://www.wrhi.com/,Radio Station,71
+629,WRSC 1390 NewsRadio 1390,http://www.wrscfm.com/,Radio Station,80
+630,WRVN 91.9 Public Radio Music Source,http://www.wrvo.com/,Radio Station,87
+631,WTAD 930 AM,http://www.wtad.com/,Radio Station,69
+632,WTBJ FM 91.3 Trinity Christian Academy,http://www.wtbj.org/,Radio Station,61
+633,WTJR Christian TV Network Channel 32,http://www.wtjr.org/,TV Station,69
+634,WTKA AM 1050,http://www.wtka.com/,Radio Station,3
+635,WUPL Channel 24,http://www.wupltv.com/,TV Station,75
+636,WUSP 1550,http://www.wuspfm.com/,Radio Station,87
+637,WUTQ-FM 100.7,http://www.wutqfm.com/,Radio Station,87
+638,K229BH WWIB FM 93.7 W. WI Inspirational,http://www.wwib.com/,Radio Station,40
+639,WXOW DTV  19,http://www.wxow.com/,TV Station,40
+640,WYGR 1530 The Pulse of the City,http://www.wygr.net/,Radio Station,99
+641,WZZM TV 13,http://www.wzzm13.com/,TV Station,31
+642,KZXY FM 102.3,http://www.y102fm.com/,Radio Station,5
+643,Yakima Herald-Republic,http://www.yakimaherald.com/,Newspaper/Magazine,100
+644,Yakima Magazine,http://www.yakimamagazine.com/,Newspaper/Magazine,100
+645,K262AZ 100.3 FM,http://www.ynop.org/,Radio Station,13
+646,Glendale Today (on YourWestValley.com; redirect),http://www.yourwestvalley.com/your_town/glendale/,Newspaper/Magazine,28
+647,Surprise Today,http://www.yourwestvalley.com/your_town/surprise/,Newspaper/Magazine,83
+648,KJBZ FM 92.7 Encarnacion A. Guerra,http://www.z93laredo.com/,Radio Station,43
+649,NA,http://www2.isu.edu/kisufm/,Radio Station,70
+650,W235BN 94.9 FM (WYGR),http://wygr.net/,Radio Station,31
+651,WZZM My Town,http://wyoming.wzzm13.com/,Online Only,99
+652,WYTX-LP 98.5,http://wytx.fm/,Radio Station,71
+653,WZMO - Marion Community Radio,http://wzmofm.com/,Radio Station,49
+654,Thornton's YourHub.com,http://yourhub.denverpost.com/blog/category/adams-county/thornton/,Online Only,85
+655,KBMC-FM 102.1,http://ypradio.org/,Radio Station,13
+656,WDEO AM 990,https://avemariaradio.net/wdeo-990-am/,Radio Station,3
+657,Bilingual Weekly,https://bilingualweekly.wordpress.com/,Newspaper/Magazine,81
+658,Cobb Life Magazine,https://cobblifemagazine.wordpress.com,Newspaper/Magazine,48
+659,Coppell on Bubble Life,https://coppell.bubblelife.com/,Online Only,17
+660,Caesar Rodney Institute Blog,https://criblog.wordpress.com/,Online Only,21
+661,Henderson Watch,https://www.facebook.com/HendersonWatch,Online Only,33
+662,Mesquite Scanner,https://www.facebook.com/MesquiteScanner/,Online Only,53
+663,WLOI AM 1540 Nostalgia,https://www.facebook.com/pages/Wloi-AM-1540/117533534975327,Radio Station,41

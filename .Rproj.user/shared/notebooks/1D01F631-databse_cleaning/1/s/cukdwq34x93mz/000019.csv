@@ -1,0 +1,76 @@
+"0",""
+"0","# Load original datasets"
+"0","communities <- read_csv(""data/raw/communities_original.csv"")"
+"2","
+[36m──[39m [1m[1mColumn specification[1m[22m [36m───────────────────────────────────────────────────────────────────────────────[39m
+cols(
+  State = [31mcol_character()[39m,
+  City = [31mcol_character()[39m,
+  `Geographic area` = [31mcol_character()[39m,
+  `ID Number` = [32mcol_double()[39m,
+  Population = [32mcol_double()[39m,
+  `Area in square miles - Land area` = [32mcol_double()[39m,
+  `Density per square mile of land area - Population` = [32mcol_double()[39m,
+  `Target Geo Id2` = [32mcol_double()[39m,
+  Dollar = [32mcol_double()[39m,
+  `Closest LMM` = [31mcol_character()[39m,
+  `Distance from LMM` = [32mcol_double()[39m,
+  `%White` = [32mcol_double()[39m,
+  `%AA` = [32mcol_double()[39m,
+  `%H/L` = [32mcol_double()[39m,
+  Universities = [32mcol_double()[39m,
+  `County Seat` = [32mcol_double()[39m,
+  `State Capital` = [32mcol_double()[39m
+)
+
+"
+"0","outlets <- read_csv(""data/raw/outlets_original.csv"")"
+"2","
+[36m──[39m [1m[1mColumn specification[1m[22m [36m───────────────────────────────────────────────────────────────────────────────[39m
+cols(
+  X1 = [32mcol_double()[39m,
+  source = [32mcol_double()[39m,
+  url = [31mcol_character()[39m,
+  city = [31mcol_character()[39m,
+  state = [31mcol_character()[39m,
+  orig = [32mcol_double()[39m,
+  loc = [32mcol_double()[39m,
+  cinbin = [32mcol_double()[39m,
+  lo = [32mcol_double()[39m,
+  co = [32mcol_double()[39m,
+  cl = [32mcol_double()[39m,
+  clo = [32mcol_double()[39m,
+  outlet_type = [31mcol_character()[39m
+)
+
+"
+"0","stories <- read_csv(""data/raw/stories_original.csv"")"
+"2","
+[36m──[39m [1m[1mColumn specification[1m[22m [36m───────────────────────────────────────────────────────────────────────────────[39m
+cols(
+  `STORYID#` = [33mcol_logical()[39m,
+  `CODER#` = [32mcol_double()[39m,
+  `COMMUNITY#` = [32mcol_double()[39m,
+  `SOURCE#` = [32mcol_double()[39m,
+  `DAY#` = [32mcol_double()[39m,
+  HEADLINE = [31mcol_character()[39m,
+  ORIGINAL = [32mcol_double()[39m,
+  LOCAL = [32mcol_double()[39m,
+  CIN = [32mcol_double()[39m,
+  NOTES = [31mcol_character()[39m,
+  `problematic items (1=bad link, 2=paywall, 3=other)` = [32mcol_double()[39m,
+  ...12 = [31mcol_character()[39m,
+  ...13 = [32mcol_double()[39m,
+  ...14 = [32mcol_double()[39m,
+  ...15 = [31mcol_character()[39m
+)
+
+"
+"0","source_list <- read_xlsx(""data/raw/Community_Source List.xlsx"", sheet = ""DeDuped"")"
+"2","New names:
+* Notes -> Notes...9
+* Notes -> Notes...10
+"
+"0","coders <- read_xlsx(""data/raw/Coder URL Assignment List_Summer 2017.xlsx"")"
+"0","date_lookup <- read_xlsx(""data/raw/date_lookup.xlsx"")"
+"0",""

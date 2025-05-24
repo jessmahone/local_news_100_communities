@@ -1,0 +1,170 @@
+---
+title: "Database Cleaning"
+author: "Jessica Mahone"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(readxl)
+library(writexl)
+```
+
+```{r load data}
+
+# Load original datasets
+communities <- read_csv("data/raw/communities_original.csv")
+outlets <- read_csv("data/raw/outlets_original.csv")
+stories <- read_csv("data/raw/stories_original.csv")
+source_list <- read_xlsx("data/raw/Community_Source List.xlsx", sheet = "DeDuped")
+coders <- read_xlsx("data/raw/Coder URL Assignment List_Summer 2017.xlsx")
+date_lookup <- read_xlsx("data/raw/date_lookup.xlsx")
+
+```
+
+```{r clean communities table}
+
+# Change column names
+colnames(communities) <- c("state", "city", "geographic_area", "id_number", "population", "area_sqm", "density_pop_per_sqm", "geo_id2", "dollar", "closest_large_media_market", "distance_from_lmm", "pct_white", "pct_black", "pct_hislat", "universities_count", "county_seat", "state_capital")
+
+# Assign community_id and clean up structure
+communities <- communities %>%
+  mutate(community_id = row_number()) %>%
+  select(community_id, everything()) %>%
+  mutate(across(c(county_seat, state_capital), ~replace_na(., 0))) %>%
+  select(-c(geo_id2, dollar))  # drop ambiguous column
+
+# Standardize city names
+communities <- communities %>%
+  mutate(city = city %>%
+           str_to_lower() %>%
+           str_trim() %>%
+           str_remove_all(" (city|village|town|municipality|boro|borough|cdp)$") %>%
+           str_to_title())
+
+# Clean state names and match abbreviations
+state_lookup <- tibble(
+  state = str_to_title(state.name),
+  abbreviation = state.abb
+)
+
+communities <- communities %>%
+  mutate(state = str_trim(state) %>% str_remove(" -$")) %>%
+  left_join(state_lookup, by = "state") %>%
+  mutate(city = paste0(city, ", ", abbreviation)) %>%
+  select(-c(state, geographic_area)) %>%
+  rename(state = abbreviation)
+
+
+```
+
+```{r clean outlets table}
+
+# Assign outlet_id and clean structure
+outlets <- outlets %>%
+  select(-X1) %>%
+  rename(outlet_id = source) %>%
+  select(outlet_id, url, city, state, outlet_type)
+
+# Join with source list to get outlet names
+source_list <- source_list %>%
+  select(outlet_name, url, city) %>%
+  distinct(url, .keep_all = TRUE)
+
+outlets <- outlets %>%
+  left_join(source_list, by = "url") %>%
+  select(outlet_id, outlet_name, everything()) %>%
+  left_join(communities, by = c("city", "state")) %>%
+  select(outlet_id, outlet_name, url, outlet_type, community_id, city, state)
+
+```
+
+```{r clean stories table}
+
+# Start with cleaned stories
+stories <- stories %>%
+  select(-c(coder_id, day, notes, problems, notes2, notes3, notes4, notes5)) %>%
+  mutate(story_id = row_number())
+
+# Join coders/source_number to recover outlet/community info
+coders <- coders %>%
+  select(-coder)
+
+stories <- stories %>%
+  rename(source_number = outlet_id) %>%
+  left_join(source_list, by = "source_number") %>%
+  left_join(communities, by = c("city", "state")) %>%
+  select(story_id, headline, outlet_id, original, local, cin, community_id)
+
+# Join publish dates
+stories2 <- read_xlsx("data/raw/stories_original.xlsx") %>%
+  mutate(story_id = row_number()) %>%
+  select(story_id, day) %>%
+  left_join(date_lookup, by = "day")
+
+stories <- stories %>%
+  left_join(stories2, by = "story_id") %>%
+  select(story_id, publication_date, everything())
+
+```
+
+```{r save clean tables}
+
+#Save clean tables
+write_csv(communities, "data/processed/communities_clean.csv")
+write_csv(outlets, "data/processed/outlets_clean.csv")
+write_csv(stories, "data/processed/stories_clean.csv")
+
+```
+
+```{r further cleaning communities}
+
+# Local communities_clean
+communities_clean <- read_csv("data/processed/communities_clean.csv")
+View(communities_clean)
+
+# Change 1s and 0s to Yes and No in communities file
+communities_binary <- c("county_seat", "state_capital")
+
+communities_clean <- communities_clean %>% 
+  mutate(across(all_of(communities_binary), ~ ifelse(. == 1, "Yes", "No"))) %>% 
+  mutate(city = sub(",\\s*[A-Z]{2}$", "", city))
+
+communities_clean <- communities_clean %>% 
+  select(community_id, city, state, everything()) %>% 
+  select(-id_number)
+
+```
+
+```{r further cleaning stories}
+
+# Load stories_clean
+stories_clean <- read_csv("data/processed/stories_clean.csv")
+
+# Recode 1s and 0s to Yes and No in stories file
+stories_binary <- c("original", "local")
+
+stories_clean <- stories_clean %>% 
+  mutate(across(all_of(stories_binary), ~ifelse(. == 1, "Yes", "No")))
+
+# Recode CINs to categories
+cin_categories <- read_xlsx("data/raw/cin_categories.xlsx")
+
+stories_clean <- stories_clean %>% 
+  left_join(cin_categories, by = "cin") %>% 
+  select(story_id, publication_date, headline, outlet_id, original, local, cin_name, everything()) %>% 
+  select(-c(cin, day)) %>% 
+  rename(critical_info_need = cin_name)
+
+
+```
+
+```{r save final clean datasets}
+
+write_csv(communities_clean, "data/processed/communities_clean.csv")
+write_csv(stories_clean, "data/processed/stories_clean.csv")
+
+```
+

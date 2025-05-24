@@ -1,0 +1,12 @@
+"0",""
+"0","# Load packages"
+"0","library(DBI)"
+"0","library(RSQLite)"
+"0",""
+"0","# Create and connect to db file"
+"0","con <- dbConnect(RSQLite::SQLite(), ""local_news_100_communities.db"")"
+"0",""
+"0","# Enable foreign key support"
+"0","dbExecute(con, ""PRAGMA foreign_keys = ON;"")"
+"1","[1] 0
+"

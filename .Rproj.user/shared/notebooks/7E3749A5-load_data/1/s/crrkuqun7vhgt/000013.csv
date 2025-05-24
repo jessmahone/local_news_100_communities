@@ -1,0 +1,5 @@
+"0",""
+"0","dbWriteTable(con, ""communities"", communities_clean, append = TRUE)"
+"0","dbWriteTable(con, ""outlets"", outlets_clean, append = TRUE)"
+"0","dbWriteTable(con, ""stories"", stories_clean, append = TRUE)"
+"0",""
