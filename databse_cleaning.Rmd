@@ -168,3 +168,48 @@ write_csv(stories_clean, "data/processed/stories_clean.csv")
 
 ```
 
+```{r loading SQL db to remove records with null headlines from stories}
+
+library(DBI)
+library(RSQLite)
+
+con <- dbConnect(RSQLite::SQLite(), "local_news_100_communities.db")
+
+```
+
+```{r recreating stories table to remove records with null headline}
+
+dbExecute(con, "
+  CREATE TABLE IF NOT EXISTS news_stories AS
+  SELECT *
+  FROM stories
+  WHERE headline IS NOT NULL
+    AND UPPER(headline) != 'N/A';
+")
+
+
+```
+
+```{r viewing results to confirm}
+
+dbListTables(con)
+
+dbGetQuery(con, "SELECT COUNT (*) FROM news_stories;")
+dbGetQuery(con, "SELECT * FROM news_stories LIMIT 5;")
+
+```
+
+```{r removing old stories table}
+
+dbExecute(con, "DROP TABLE IF EXISTS stories;")
+dbListTables(con)
+
+```
+
+```{r renaming news_stories back to stories}
+
+dbExecute(con, "ALTER TABLE news_stories RENAME TO stories;")
+dbListTables(con)
+
+```
+
