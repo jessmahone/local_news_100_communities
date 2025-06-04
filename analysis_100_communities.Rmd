@@ -101,21 +101,47 @@ chisq.test(cin_table_no_none)
 
 ```{r}
 
+# Define custom color palette for CIN categories
+cin_colors <- c(
+  "Emergencies/risks" = "#9ebc9e",         # muted green
+  "Health" = "#b3cde3",                    # muted blue
+  "Education" = "#cab2d6",                 # soft lavender
+  "Transportation systems" = "#f2c9ac",    # soft peach
+  "Economic development" = "#d9d9d9",      # light gray
+  "Environment/planning" = "#bebada",      # lavender-gray
+  "Civic information" = "#fdd9b5",         # warm beige
+  "Political life" = "#cccccc"             # soft stone gray
+)
+
+# Create the proportion plot
 cin_by_community_size %>%
   filter(critical_info_need != "None") %>%
   group_by(community_size) %>%
   mutate(proportion = story_count / sum(story_count)) %>%
   ungroup() %>%
   ggplot(aes(x = community_size, y = proportion, fill = critical_info_need)) +
-  geom_bar(stat = "identity", position = "dodge") +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.9), width = 1) +
+  geom_text(aes(label = scales::percent(proportion, accuracy = 1)),
+          position = position_dodge(width = 0.9),
+          vjust = 1.2, size = 3, color = "black") +
+  scale_fill_manual(values = cin_colors) +
   labs(
-    title = "Proportion of CIN Coverage by Community Size (Excluding 'None')",
+    title = "CIN Coverage by Community Size",
+    subtitle = "Excludes stories that did not address a Critical Information Need",
     x = "Community Size",
-    y = "Proportion of Stories",
+    y = NULL,
     fill = "CIN Category"
   ) +
-  scale_y_continuous(labels = percent_format()) +
-  theme_minimal()
+  theme_minimal() +
+  theme(
+    axis.ticks = element_blank(),
+    axis.text.y = element_blank(),
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor.y = element_blank(),
+    legend.position = "bottom",
+    legend.title = element_text(size = 10),
+    legend.text = element_text(size = 9)
+  )
 
 ```
 
