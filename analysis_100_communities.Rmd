@@ -145,3 +145,9 @@ cin_by_community_size %>%
 
 ```
 
+```{r save graphic}
+
+ggsave("cin_by_community_size.png", width = 9, height = 6, dpi = 300)
+
+```
+
