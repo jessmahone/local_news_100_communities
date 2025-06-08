@@ -72,7 +72,7 @@ cin_by_community_size %>%
 
 ```
 
-```{r}
+```{r cin chisq test}
 
 cin_table <- cin_by_community_size %>%
   tidyr::pivot_wider(
@@ -81,18 +81,6 @@ cin_table <- cin_by_community_size %>%
     values_fill = 0
   ) %>%
   column_to_rownames("critical_info_need")
-
-```
-
-```{r}
-
-chisq_test <- chisq.test(cin_table)
-chisq_test
-
-
-```
-
-```{r}
 
 cin_table_no_none <- cin_table[rownames(cin_table) != "None", ]
 chisq.test(cin_table_no_none)
@@ -103,14 +91,14 @@ chisq.test(cin_table_no_none)
 
 # Define custom color palette for CIN categories
 cin_colors <- c(
-  "Emergencies/risks" = "#9ebc9e",         # muted green
-  "Health" = "#b3cde3",                    # muted blue
-  "Education" = "#cab2d6",                 # soft lavender
-  "Transportation systems" = "#f2c9ac",    # soft peach
-  "Economic development" = "#d9d9d9",      # light gray
-  "Environment/planning" = "#bebada",      # lavender-gray
-  "Civic information" = "#fdd9b5",         # warm beige
-  "Political life" = "#cccccc"             # soft stone gray
+  "Emergencies/risks"       = "#e07b91",  # muted rose
+  "Health"                  = "#f4a582",  # soft coral
+  "Education"               = "#92c5de",  # soft blue
+  "Transportation systems" = "#b3b3cc",  # muted lavender
+  "Economic development"    = "#c2a477",  # dusty gold
+  "Environment/planning"    = "#a1d99b",  # gentle green
+  "Civic information"       = "#d0b7d5",  # pale violet
+  "Political life"          = "#80b1d3"   # dusty sky blue
 )
 
 # Create the proportion plot
@@ -120,34 +108,203 @@ cin_by_community_size %>%
   mutate(proportion = story_count / sum(story_count)) %>%
   ungroup() %>%
   ggplot(aes(x = community_size, y = proportion, fill = critical_info_need)) +
-  geom_bar(stat = "identity", position = position_dodge(width = 0.9), width = 1) +
-  geom_text(aes(label = scales::percent(proportion, accuracy = 1)),
-          position = position_dodge(width = 0.9),
-          vjust = 1.2, size = 3, color = "black") +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.75), width = 0.6) +
+  geom_text(
+    aes(label = scales::percent(proportion, accuracy = 1)),
+    position = position_dodge(width = 0.75),
+    vjust = -0.4, size = 3, color = "black"
+  ) +
   scale_fill_manual(values = cin_colors) +
+  scale_x_discrete(labels = c(
+    "Small" = "Small (<50k)",
+    "Medium" = "Medium (50k–199k)",
+    "Large" = "Large (200k–300k)"
+  )) +
   labs(
-    title = "CIN Coverage by Community Size",
+    title = "Community Information Need Coverage by Community Size",
     subtitle = "Excludes stories that did not address a Critical Information Need",
     x = "Community Size",
     y = NULL,
     fill = "CIN Category"
   ) +
-  theme_minimal() +
+  theme_minimal(base_size = 11) +
   theme(
     axis.ticks = element_blank(),
     axis.text.y = element_blank(),
-    panel.grid.major.y = element_blank(),
-    panel.grid.minor.y = element_blank(),
+    panel.grid = element_blank(),
     legend.position = "bottom",
-    legend.title = element_text(size = 10),
-    legend.text = element_text(size = 9)
+    legend.title = element_blank(),
+    legend.text = element_text(size = 9),
+    axis.text.x = element_text(face = "bold")
   )
 
 ```
 
-```{r save graphic}
+```{r save CIN graphic}
 
 ggsave("cin_by_community_size.png", width = 9, height = 6, dpi = 300)
+
+```
+
+```{sql connection=con, output.var = "local_by_community_size"}
+
+SELECT
+  CASE
+    WHEN c.population < 50000 THEN 'Small'
+    WHEN c.population >= 50000 AND c.population < 200000 THEN 'Medium'
+    ELSE 'Large'
+  END AS community_size,
+  s.local,
+  COUNT(*) AS local_story_count
+FROM stories s
+JOIN communities c ON s.community_id = c.community_id
+WHERE s.local IS NOT NULL
+GROUP BY community_size, s.local
+ORDER BY community_size, local_story_count DESC;
+
+```
+
+```{r local chisq test}
+
+local_table <- local_by_community_size %>%
+  tidyr::pivot_wider(
+    names_from = community_size,
+    values_from = local_story_count,
+    values_fill = 0
+  ) %>%
+  column_to_rownames("local")
+
+chisq_test_local <- chisq.test(local_table)
+chisq_test_local
+
+```
+
+```{r local_by_community_size chart}
+
+
+local_by_community_size %>%
+  group_by(community_size) %>%
+  mutate(proportion = local_story_count / sum(local_story_count)) %>%
+  ungroup() %>%
+  ggplot(aes(x = community_size, y = proportion, fill = local)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.75), width = 0.6) +
+  geom_text(
+    aes(label = scales::percent(proportion, accuracy = 1)),
+    position = position_dodge(width = 0.75),
+    vjust = -0.4, size = 3, color = "black"
+  ) +
+  scale_fill_manual(
+    values = c("Yes" = "#80b1d3", "No" = "#a1d99b"), 
+    labels = c("Yes" = "Local", "No" = "Non-local")
+  ) +
+  scale_x_discrete(labels = c(
+    "Small" = "Small (<50k)",
+    "Medium" = "Medium (50k–199k)",
+    "Large" = "Large (200k–300k)"
+  )) +
+  labs(
+    title = "Local Story Coverage by Community Size",
+    subtitle = "Proportion of stories categorized as local vs. non-local by community size",
+    x = "Community Size",
+    y = NULL,
+    fill = NULL
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    axis.ticks = element_blank(),
+    axis.text.y = element_blank(),
+    panel.grid = element_blank(),
+    legend.position = "bottom",
+    legend.text = element_text(size = 9),
+    axis.text.x = element_text(face = "bold")
+  )
+
+```
+
+```{r save local graphic}
+
+ggsave("local_by_community_size.png", width = 9, height = 6, dpi = 300)
+
+```
+
+```{sql connection=con, output.var="original_by_community_size"}
+
+SELECT
+  CASE
+    WHEN c.population < 50000 THEN 'Small'
+    WHEN c.population >= 50000 AND c.population < 200000 THEN 'Medium'
+    ELSE 'Large'
+  END AS community_size,
+  s.original,
+  COUNT(*) AS original_story_count
+FROM stories s
+JOIN communities c ON s.community_id = c.community_id
+WHERE s.original IS NOT NULL
+GROUP BY community_size, s.original
+ORDER BY community_size, original_story_count DESC;
+
+```
+
+```{r chisq test}
+
+original_table <- original_by_community_size %>%
+  tidyr::pivot_wider(
+    names_from = community_size,
+    values_from = original_story_count,
+    values_fill = 0
+  ) %>%
+  column_to_rownames("original")
+
+chisq_test_original <- chisq.test(original_table)
+chisq_test_original
+
+```
+
+```{r original_by_community_size chart}
+
+original_by_community_size %>%
+  group_by(community_size) %>%
+  mutate(proportion = original_story_count / sum(original_story_count)) %>%
+  ungroup() %>%
+  ggplot(aes(x = community_size, y = proportion, fill = original)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.75), width = 0.6) +
+  geom_text(
+    aes(label = scales::percent(proportion, accuracy = 1)),
+    position = position_dodge(width = 0.75),
+    vjust = -0.4, size = 3, color = "black"
+  ) +
+  scale_fill_manual(
+    values = c(`Yes` = "#80b1d3", `No` = "#a1d99b"), 
+    labels = c(`Yes` = "Original", `No` = "Not Original")
+  ) +
+  scale_x_discrete(labels = c(
+    "Small" = "Small (<50k)",
+    "Medium" = "Medium (50k–199k)",
+    "Large" = "Large (200k–300k)"
+  )) +
+  labs(
+    title = "Original Reporting by Community Size",
+    subtitle = "Proportion of stories categorized as original reporting vs. from other sources",
+    x = "Community Size",
+    y = NULL,
+    fill = NULL
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    axis.ticks = element_blank(),
+    axis.text.y = element_blank(),
+    panel.grid = element_blank(),
+    legend.position = "bottom",
+    legend.text = element_text(size = 9),
+    axis.text.x = element_text(face = "bold")
+  )
+
+
+```
+
+```{r save original graphic}
+
+ggsave("original_by_community_size.png", width = 9, height = 6, dpi = 300)
 
 ```
 
