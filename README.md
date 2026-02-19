@@ -43,7 +43,7 @@ local_news_100_communities/
 │ └── processed/ # Cleaned, final CSVs
 ├── local_news_100_communities.db
 ├── create_tables.sql
-├── databse_cleaning.Rmd
+├── database_cleaning.Rmd
 ├── load_data.Rmd
 ├── README.md
 
