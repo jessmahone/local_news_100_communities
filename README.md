@@ -60,11 +60,11 @@ ORDER BY story_count DESC;
 ```
 
 ## 📝 License & Attribution
-Dataset originally from [Who’s Producing Local Journalism?](https://bit.ly/whos-producing)
+Dataset originally from [Who’s Producing Local Journalism?](https://github.com/jessmahone/local_news_100_communities/blob/main/Whos%20Producing%20Local%20Journalism_FINAL.pdf)
 
 
 👤 Author
-Jessica Mahone
-Ph.D. | Data Analyst | Media & Tech Research
-📧 📧 [jessmahonecodes@pm.me](mailto:jessmahonecodes@pm.me)
+Jessica Mahone, Ph.D.
+Analytics Engineer in the Making | Media & Tech Research
+📧 📧 [jessmahonecodes@gmail.com](mailto:jessmahonecodes@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/jessica-mahone/)
