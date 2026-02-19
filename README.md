@@ -21,7 +21,7 @@ This project began as part of my work at the DeWitt Wallace Center for Media and
 1. **Data Cleaning**  
    - Handled duplicates, missing values, inconsistent formats
    - Re-coded categorical variables and standardized text fields
-   - Scripts: `databse_cleaning.Rmd`
+   - Scripts: `database_cleaning.Rmd`
 
 2. **Schema Design & Normalization**  
    - Created separate tables for `communities`, `outlets`, and `stories`
