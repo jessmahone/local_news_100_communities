@@ -2,7 +2,7 @@
 
 Creating and exploring a database of journalism sources and content in 100 U.S. communities using R and SQLite.
 
-This project involved cleaning, normalizing, and analyzing a dataset of over 19,000 local news stories to build a structured, queryable database for deeper insights into the state of U.S. local journalism. It's part of my portfolio to demonstrate my data wrangling, SQL, and data integration skills.
+This project involved cleaning, normalizing, and analyzing a dataset of over 16,000 local news stories to build a structured, queryable database for deeper insights into the state of U.S. local journalism. It's part of my portfolio to demonstrate my data wrangling, SQL, and data integration skills.
 
 ## 🚀 Motivation
 
