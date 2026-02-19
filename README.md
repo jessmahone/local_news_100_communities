@@ -66,5 +66,5 @@ Dataset originally from [Who’s Producing Local Journalism?](https://github.com
 👤 Author
 Jessica Mahone, Ph.D.
 Analytics Engineer in the Making | Media & Tech Research
-📧 📧 [jessmahonecodes@gmail.com](mailto:jessmahonecodes@gmail.com)
+📧 [jessmahonecodes@gmail.com](mailto:jessmahonecodes@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/jessica-mahone/)
