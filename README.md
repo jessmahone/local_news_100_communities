@@ -37,14 +37,14 @@ This project began as part of my work at the DeWitt Wallace Center for Media and
 
 ## 📁 Repo Structure
 
-local_news_100_communities/
-├── data/
-│ ├── raw/ # Original source files
-│ └── processed/ # Cleaned, final CSVs
-├── local_news_100_communities.db
-├── create_tables.sql
-├── database_cleaning.Rmd
-├── load_data.Rmd
+local_news_100_communities/  
+├── data/  
+│ ├── raw/ # Original source files  
+│ └── processed/ # Cleaned, final CSVs  
+├── local_news_100_communities.db  
+├── create_tables.sql  
+├── database_cleaning.Rmd  
+├── load_data.Rmd  
 ├── README.md
 
 
