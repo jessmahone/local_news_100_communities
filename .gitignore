@@ -6,3 +6,4 @@
 *.tmp
 *.swp
 *.nb.html
+.DS_Store
