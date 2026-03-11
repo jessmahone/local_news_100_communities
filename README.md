@@ -6,7 +6,7 @@ This project involved cleaning, normalizing, and analyzing a dataset of over 16,
 
 ## 🚀 Motivation
 
-This project began as part of my work at the DeWitt Wallace Center for Media and Democracy and reflects my interest in transforming messy, real-world data into structured insights that support decision-making in media and beyond.
+This project began as part of my work at the DeWitt Wallace Center for Media and Democracy and reflects my interest in transforming messy, real-world data into structured insights that support decision-making in media and beyond. Local news data is often fragmented and hard to analyze at scale; this project demonstrates how raw content data can be structured for strategic insight.
 
 ## 🧰 Tools & Technologies
 
