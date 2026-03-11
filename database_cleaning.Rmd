@@ -19,7 +19,6 @@ communities <- read_csv("data/raw/communities_original.csv")
 outlets <- read_csv("data/raw/outlets_original.csv")
 stories <- read_csv("data/raw/stories_original.csv")
 source_list <- read_xlsx("data/raw/Community_Source List.xlsx", sheet = "DeDuped")
-coders <- read_xlsx("data/raw/Coder URL Assignment List_Summer 2017.xlsx")
 date_lookup <- read_xlsx("data/raw/date_lookup.xlsx")
 
 ```
@@ -87,10 +86,6 @@ outlets <- outlets %>%
 stories <- stories %>%
   select(-c(coder_id, day, notes, problems, notes2, notes3, notes4, notes5)) %>%
   mutate(story_id = row_number())
-
-# Join coders/source_number to recover outlet/community info
-coders <- coders %>%
-  select(-coder)
 
 stories <- stories %>%
   rename(source_number = outlet_id) %>%
