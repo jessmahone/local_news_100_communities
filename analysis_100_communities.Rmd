@@ -348,4 +348,11 @@ WHERE outlet_id = 594;
 
 ```
 
+```{sql connection=con}
+
+DELETE FROM outlets
+WHERE outlet_id = 145;
+
+```
+
 
