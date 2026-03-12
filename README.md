@@ -54,10 +54,10 @@ local_news_100_communities/
 
 ```sql
 -- Number of stories per community
-SELECT c.city, c.state, COUNT(s.story_id) AS story_count
+SELECT c.city AS city, c.state AS state, COUNT(s.story_id) AS story_count
 FROM stories s
 JOIN communities c ON s.community_id = c.community_id
-GROUP BY c.community_name
+GROUP BY city, state
 ORDER BY story_count DESC;
 ```
 
