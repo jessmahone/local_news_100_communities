@@ -330,3 +330,22 @@ ggsave("original_by_community_size.png", width = 8, height = 6, dpi = 300, units
 
 ```
 
+```{sql connection= con}
+
+-- Verify critical_info_need vocabulary
+SELECT DISTINCT critical_info_need, COUNT(*) AS count
+FROM stories
+GROUP BY critical_info_need
+ORDER BY count DESC;
+
+```
+
+```{sql connection= con}
+
+UPDATE outlets
+SET outlet_type = 'Radio Station'
+WHERE outlet_id = 594;
+
+```
+
+
