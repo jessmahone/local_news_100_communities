@@ -8,6 +8,8 @@ This project involved cleaning, normalizing, and analyzing a dataset of over 16,
 
 This project began as part of my work at the DeWitt Wallace Center for Media and Democracy and reflects my interest in transforming messy, real-world data into structured insights that support decision-making in media and beyond. Local news data is often fragmented and hard to analyze at scale; this project demonstrates how raw content data can be structured for strategic insight.
 
+The next phase of this project will be migration to PostgreSQL.
+
 ## 🧰 Tools & Technologies
 
 - **R**: Data cleaning, transformation, and database interaction
