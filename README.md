@@ -18,21 +18,21 @@ This project began as part of my work at the DeWitt Wallace Center for Media and
 1. **Data Cleaning**
    - Handled duplicates, missing values, inconsistent formats
    - Re-coded categorical variables and standardized text fields
-   - Scripts: `database_cleaning.Rmd`
+   - Scripts: `Rmd files/database_cleaning.Rmd`
 
 2. **Schema Design & Normalization**
    - Created separate tables for `communities`, `outlets`, and `stories`
    - Foreign keys link stories to outlets and outlets to communities
-   - Schema: `create_tables.sql`
+   - Schema: `SQL scripts/create_tables.sql`
 
 3. **Data Loading**
    - Built and populated the SQLite database using R and `RSQLite`
-   - Script: `load_data.Rmd`
+   - Script: `Rmd files/load_data.Rmd`
 
 4. **Migration to PostgreSQL**
    - Audited and cleaned data prior to migration, including recovering missing foreign keys and resolving data type inconsistencies
    - Migrated from SQLite to PostgreSQL with enforced constraints, proper data types, and validated foreign key relationships
-   - Scripts: `rmd/postgres_migration_cleaning.Rmd`, `rmd/sqlite_postgres_migration.Rmd`
+   - Scripts: `Rmd files/postgres_migration_cleaning.Rmd`, `Rmd files/sqlite_postgres_migration.Rmd`
 
 5. **Exploration & Querying**
    - Sample SQL queries used to explore story counts, outlet types, and coverage across locations
