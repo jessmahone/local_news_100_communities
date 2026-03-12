@@ -52,7 +52,7 @@ community_id,city,state,population,area_sqm,density_pop_per_sqm,closest_large_me
 51,Menlo Park,CA,32026,9.79,3271.4,San Jose,18,70,5,18,0,No,No
 52,Merced,CA,78958,23.32,3386.4,San Jose,77,52,6,50,1,No,No
 53,Mesquite,TX,139824,46.02,3038.3,Dallas,18,59,22,32,0,No,No
-54,Milford City (Balance),CT,51271,21.9,2341,New York,61,94,2,3,0,No,No
+54,Milford,CT,51271,21.9,2341,New York,61,94,2,3,0,No,No
 55,Minnetonka,MN,49734,26.93,1847,Minneapolis,11,90,4,2,0,No,No
 56,Miramar,FL,122041,29.52,4134.1,Miami,17,41,46,37,0,No,No
 57,New Berlin,WI,39584,36.44,1086.2,Milwaukee,11,93,1,3,0,No,No
