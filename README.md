@@ -37,6 +37,10 @@ This project began as part of my work at the DeWitt Wallace Center for Media and
 5. **Exploration & Querying**
    - Sample SQL queries used to explore story counts, outlet types, and coverage across locations
 
+6. **Market Analyses**  (Forthcoming)
+   - Market Concentration in Local News: Which communities are underserved relative to their peers, and does outlet type explain it?
+   - 
+
 ## 📁 Repo Structure
 local_news_100_communities/  
 ├── data/  
@@ -48,8 +52,9 @@ local_news_100_communities/
 │   ├── postgres_migration_cleaning.Rmd  
 │   └── sqlite_postgres_migration.Rmd  
 ├── local_news_100_communities.db  
-├── SQL scripts/ 
-│   └── create_tables.sql
+├── SQL scripts/   
+│   └── create_tables.sql  
+|   └── market_analysis_1.sql  
 └── README.md
 
 ## 🔍 Example Query
