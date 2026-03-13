@@ -37,9 +37,11 @@ This project began as part of my work at the DeWitt Wallace Center for Media and
 5. **Exploration & Querying**
    - Sample SQL queries used to explore story counts, outlet types, and coverage across locations
 
-6. **Market Analyses**  (Forthcoming)
+6. **Market Analyses**  (In Progress)
    - Market Concentration in Local News: Which communities are underserved relative to their peers, and does outlet type explain it?
-   - 
+   - Coverage Gaps in Local News: Which critical information needs are going unmet in local communities, and which outlet types are filling — or 
+     failing to fill — them?
+   - Outlet Type Distribution Across Market Sizes: How does the mix of outlet types vary across community sizes, and where do opportunities exist       for new entrants?
 
 ## 📁 Repo Structure
 local_news_100_communities/  
