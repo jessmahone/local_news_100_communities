@@ -43,6 +43,12 @@ This project began as part of my work at the DeWitt Wallace Center for Media and
      failing to fill — them?
    - Outlet Type Distribution Across Market Sizes: How does the mix of outlet types vary across community sizes, and where do opportunities exist       for new entrants?
 
+## 📉 Key Findings: Market Concentration Analysis
+   - Outlet density (per 100k population) ranges from 0 to 68, with a mean of 13.65, heavily skewed by high-density small markets like Keene, NH
+   - The 50k–100k population band is disproportionately underserved, with 63% of communities falling below their band's median outlet density
+   - Larger markets (100k+) are comparatively better served at 36% underserved
+   - Four communities have zero local news outlets entirely
+
 ## 📁 Repo Structure
 local_news_100_communities/  
 ├── data/  
