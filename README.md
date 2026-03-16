@@ -61,7 +61,7 @@ local_news_100_communities/
 │   └── sqlite_postgres_migration.Rmd  
 ├── local_news_100_communities.db  
 ├── SQL scripts/   
-│   └── create_tables.sql  
+│   ├── create_tables.sql  
 |   └── market_analysis_1.sql  
 └── README.md
 
