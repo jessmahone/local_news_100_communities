@@ -12,8 +12,7 @@ library(tidyverse)
 library(readxl)
 
 # Connect to SQLite
-sqlite_con <- dbConnect(RSQLite::SQLite(), 
-                        "/Users/jessicamahone/Documents/UNC News Deserts Database/database/local_news_100_communities.db")
+sqlite_con <- dbConnect(RSQLite::SQLite(), "local_news_100_communities.db")
 
 # Read tables
 communities <- dbReadTable(sqlite_con, "communities")
@@ -103,7 +102,7 @@ outlets_clean <- outlets %>%
 
 Load and prepare the coder assignment spreadsheet:
 ```{r load_coders}
-coders <- read_xlsx("/Users/jessicamahone/Documents/UNC News Deserts Database/database/data/raw/Coder URL Assignment List_Summer 2017.xlsx") %>%
+coders <- read_xlsx("/data/raw/Coder URL Assignment List_Summer 2017.xlsx") %>%
   filter(!str_detect(community, "DUPLICATE")) %>%
   separate(community, into = c("city", "state"), sep = ",\\s*")
 ```
@@ -168,7 +167,7 @@ outlets_clean %>%
 
 ## Export
 ```{r export}
-write_csv(outlets_clean, "/Users/jessicamahone/Documents/UNC News Deserts Database/database/data/processed/outlets_clean.csv")
-write_csv(communities_clean, "/Users/jessicamahone/Documents/UNC News Deserts Database/database/data/processed/communities_clean.csv")
-write_csv(stories_clean, "/Users/jessicamahone/Documents/UNC News Deserts Database/database/data/processed/stories_clean.csv")
+write_csv(outlets_clean, "/data/processed/outlets_clean.csv")
+write_csv(communities_clean, "/data/processed/communities_clean.csv")
+write_csv(stories_clean, "/data/processed/stories_clean.csv")
 ```
