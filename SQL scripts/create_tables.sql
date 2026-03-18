@@ -37,6 +37,5 @@ CREATE TABLE stories(
   local TEXT,
   critical_info_need TEXT,
   community_id INTEGER,
-  FOREIGN KEY (outlet_id) REFERENCES outlets(outlet_id),
-  FOREIGN KEY (community_id) REFERENCES communities(community_id)
+  FOREIGN KEY (outlet_id) REFERENCES outlets(outlet_id)
 );
