@@ -80,7 +80,7 @@ ORDER BY story_count DESC;
 Dataset originally from [Who's Producing Local Journalism?](https://github.com/jessmahone/local_news_100_communities/blob/main/Whos%20Producing%20Local%20Journalism_FINAL.pdf)
 
 👤 Author  
-Jessica Mahone, Ph.D.  
+Jessica Mahone
 Researcher turned Analytics Engineer  
 📧 [jessmahonecodes@gmail.com](mailto:jessmahonecodes@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jessica-mahone/)
