@@ -39,7 +39,7 @@ This project began as part of my work at the DeWitt Wallace Center for Media and
 
 6. **Market Analyses**
    - Market Concentration in Local News: Which communities are underserved relative to their peers, and does outlet type explain it?
-   - Coverage Gaps in Local News: Which critical information needs are going unmet in local communities, and which outlet types are filling — or failing to fill — them?
+   - Coverage Gaps in Local News: Which critical information needs are going unmet in local communities?
 
 ## 📉 Key Findings
 **Market Concentration Analysis**
