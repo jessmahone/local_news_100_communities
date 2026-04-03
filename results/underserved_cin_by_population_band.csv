@@ -1,0 +1,33 @@
+count,population_band,critical_info_need,,,,,,,,,,,
+11,"1 - Under 30,000",Civic information,,,Band,Civic information,Economic development,Education,Emergencies/risks,Environment/planning,Health,Political life,Transportation systems
+6,"1 - Under 30,000",Economic development,,,"1 - Under 30,000",11,6,6,9,4,5,5,4
+6,"1 - Under 30,000",Education,,,"2 - 30,000 to 50,000",8,7,6,7,5,5,5,3
+9,"1 - Under 30,000",Emergencies/risks,,,"3 - 50,000 to 100,000",9,5,4,8,5,5,4,6
+4,"1 - Under 30,000",Environment/planning,,,"4 - 100,000 to 300,000",5,4,3,4,3,3,4,3
+5,"1 - Under 30,000",Health,,,Total,33,22,19,28,17,18,18,16
+5,"1 - Under 30,000",Political life,,,,,,,,,,,
+4,"1 - Under 30,000",Transportation systems,,,,,,,,,,,
+8,"2 - 30,000 to 50,000",Civic information,,,Band,Civic information,Economic development,Education,Emergencies/risks,Environment/planning,Health,Political life,Transportation systems
+7,"2 - 30,000 to 50,000",Economic development,,,"1 - Under 30,000",0.333333333,0.272727273,0.315789474,0.321428571,0.235294118,0.277777778,0.277777778,0.25
+6,"2 - 30,000 to 50,000",Education,,,"2 - 30,000 to 50,000",0.242424242,0.318181818,0.315789474,0.25,0.294117647,0.277777778,0.277777778,0.1875
+7,"2 - 30,000 to 50,000",Emergencies/risks,,,"3 - 50,000 to 100,000",0.272727273,0.227272727,0.210526316,0.285714286,0.294117647,0.277777778,0.222222222,0.375
+5,"2 - 30,000 to 50,000",Environment/planning,,,"4 - 100,000 to 300,000",0.151515152,0.181818182,0.157894737,0.142857143,0.176470588,0.166666667,0.222222222,0.1875
+5,"2 - 30,000 to 50,000",Health,,,,,,,,,,,
+5,"2 - 30,000 to 50,000",Political life,,,,,,,,,,,
+3,"2 - 30,000 to 50,000",Transportation systems,,,,,,,,,,,
+9,"3 - 50,000 to 100,000",Civic information,,,,,,,,,,,
+5,"3 - 50,000 to 100,000",Economic development,,,,,,,,,,,
+4,"3 - 50,000 to 100,000",Education,,,,,,,,,,,
+8,"3 - 50,000 to 100,000",Emergencies/risks,,,,,,,,,,,
+5,"3 - 50,000 to 100,000",Environment/planning,,,,,,,,,,,
+5,"3 - 50,000 to 100,000",Health,,,,,,,,,,,
+4,"3 - 50,000 to 100,000",Political life,,,,,,,,,,,
+6,"3 - 50,000 to 100,000",Transportation systems,,,,,,,,,,,
+5,"4 - 100,000 to 300,000",Civic information,,,,,,,,,,,
+4,"4 - 100,000 to 300,000",Economic development,,,,,,,,,,,
+3,"4 - 100,000 to 300,000",Education,,,,,,,,,,,
+4,"4 - 100,000 to 300,000",Emergencies/risks,,,,,,,,,,,
+3,"4 - 100,000 to 300,000",Environment/planning,,,,,,,,,,,
+3,"4 - 100,000 to 300,000",Health,,,,,,,,,,,
+4,"4 - 100,000 to 300,000",Political life,,,,,,,,,,,
+3,"4 - 100,000 to 300,000",Transportation systems,,,,,,,,,,,

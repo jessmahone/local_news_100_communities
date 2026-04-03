@@ -1,172 +1,172 @@
-"city","state","population_band","cin_per_100k","critical_info_need","median_cin_per_100k","status"
-Texarkana,AR,"1 - Under 30,000",3.342357699120959925100000,Economic development,4.63172673741469,Underserved
-Henderson,KY,"1 - Under 30,000",3.477414194804743193000000,Transportation systems,5.724662008429249,Underserved
-Henderson,KY,"1 - Under 30,000",3.477414194804743193000000,Political life,4.103159609675759,Underserved
-Elizabethtown,KY,"1 - Under 30,000",3.504959517717570362100000,Education,15.259604013275855,Underserved
-Elizabethtown,KY,"1 - Under 30,000",3.504959517717570362100000,Economic development,4.63172673741469,Underserved
-Elizabethtown,KY,"1 - Under 30,000",3.504959517717570362100000,Transportation systems,5.724662008429249,Underserved
-Alton,IL,"1 - Under 30,000",3.588731383455948322300000,Economic development,4.63172673741469,Underserved
-Winona,MN,"1 - Under 30,000",3.624238909828935923500000,Transportation systems,5.724662008429249,Underserved
-East St. Louis,IL,"1 - Under 30,000",3.702880841294527142100000,Political life,4.103159609675759,Underserved
-East St. Louis,IL,"1 - Under 30,000",3.702880841294527142100000,Health,7.0661455782606915,Underserved
-East St. Louis,IL,"1 - Under 30,000",3.702880841294527142100000,Economic development,4.63172673741469,Underserved
-Kingsville,TX,"1 - Under 30,000",3.814901003318963872900000,Health,7.0661455782606915,Underserved
-Kingsville,TX,"1 - Under 30,000",3.814901003318963872900000,Political life,4.103159609675759,Underserved
-Belmont,CA,"1 - Under 30,000",3.870718018192374685500000,Emergencies/risks,16.739203213927016,Underserved
-Belmont,CA,"1 - Under 30,000",3.870718018192374685500000,Political life,4.103159609675759,Underserved
-Rexburg,ID,"1 - Under 30,000",3.924030764401192905400000,Environment/planning,8.543722499893203,Underserved
-Rexburg,ID,"1 - Under 30,000",3.924030764401192905400000,Political life,4.103159609675759,Underserved
-Rexburg,ID,"1 - Under 30,000",3.924030764401192905400000,Health,7.0661455782606915,Underserved
-Woodstock,GA,"1 - Under 30,000",4.184800803481754268500000,Education,15.259604013275855,Underserved
-Woodstock,GA,"1 - Under 30,000",4.184800803481754268500000,Economic development,4.63172673741469,Underserved
-Woodstock,GA,"1 - Under 30,000",4.184800803481754268500000,Environment/planning,8.543722499893203,Underserved
-Keene,NH,"1 - Under 30,000",4.271861249946601734400000,Transportation systems,5.724662008429249,Underserved
-Faribault,MN,"1 - Under 30,000",4.282288454950325453900000,Environment/planning,8.543722499893203,Underserved
-Searcy,AR,"1 - Under 30,000",4.374835943652113045800000,Environment/planning,8.543722499893203,Underserved
-Darien,IL,"1 - Under 30,000",4.527755139002082767400000,Emergencies/risks,16.739203213927016,Underserved
-Charleston,IL,"1 - Under 30,000",4.579173917025368623500000,Economic development,4.63172673741469,Underserved
-Oxford,AL,"1 - Under 30,000",4.684279557804009743300000,Health,7.0661455782606915,Underserved
-Henderson,KY,"1 - Under 30,000",6.954828389609486385900000,Health,7.0661455782606915,Underserved
-Slidell,LA,"1 - Under 30,000",7.388798581350672380700000,Civic information,19.58312133068484,Underserved
-Loves Park,IL,"1 - Under 30,000",8.334722453742290381700000,Emergencies/risks,16.739203213927016,Underserved
-Keene,NH,"1 - Under 30,000",8.543722499893203468800000,Education,15.259604013275855,Underserved
-Keene,NH,"1 - Under 30,000",8.543722499893203468800000,Civic information,19.58312133068484,Underserved
-Faribault,MN,"1 - Under 30,000",8.564576909900650907800000,Emergencies/risks,16.739203213927016,Underserved
-Searcy,AR,"1 - Under 30,000",8.749671887304226091500000,Education,15.259604013275855,Underserved
-Oxford,AL,"1 - Under 30,000",9.368559115608019486600000,Education,15.259604013275855,Underserved
-Garfield Heights,OH,"1 - Under 30,000",10.39897396790183400000,Civic information,19.58312133068484,Underserved
-Henderson,KY,"1 - Under 30,000",10.43224258441423000000,Emergencies/risks,16.739203213927016,Underserved
-Elizabethtown,KY,"1 - Under 30,000",10.51487855315271100000,Civic information,19.58312133068484,Underserved
-Alton,IL,"1 - Under 30,000",10.76619415036784500000,Emergencies/risks,16.739203213927016,Underserved
-Winona,MN,"1 - Under 30,000",10.87271672948680800000,Education,15.259604013275855,Underserved
-Elmwood Park,IL,"1 - Under 30,000",12.05642406462243300000,Civic information,19.58312133068484,Underserved
-Willoughby,OH,"1 - Under 30,000",13.47224717082809400000,Emergencies/risks,16.739203213927016,Underserved
-La Porte,IN,"1 - Under 30,000",13.60359134811590300000,Civic information,19.58312133068484,Underserved
-Biddeford,ME,"1 - Under 30,000",14.09973210509000300000,Civic information,19.58312133068484,Underserved
-Kingsville,TX,"1 - Under 30,000",15.25960401327585500000,Emergencies/risks,16.739203213927016,Underserved
-Rexburg,ID,"1 - Under 30,000",15.69612305760477200000,Emergencies/risks,16.739203213927016,Underserved
-Rexburg,ID,"1 - Under 30,000",15.69612305760477200000,Civic information,19.58312133068484,Underserved
-Loves Park,IL,"1 - Under 30,000",16.66944490748458100000,Civic information,19.58312133068484,Underserved
-Woodstock,GA,"1 - Under 30,000",16.73920321392701700000,Civic information,19.58312133068484,Underserved
-Owasso,OK,"1 - Under 30,000",17.29206294310911300000,Civic information,19.58312133068484,Underserved
-Minnetonka,MN,"2 - 30,000 to 50,000",2.010696907548156190900000,Transportation systems,3.672386392678318,Underserved
-Minnetonka,MN,"2 - 30,000 to 50,000",2.010696907548156190900000,Civic information,17.72062174067136,Underserved
-Minnetonka,MN,"2 - 30,000 to 50,000",2.010696907548156190900000,Education,7.357791610975468,Underserved
-Quincy,IL,"2 - 30,000 to 50,000",2.461053823247114414400000,Transportation systems,3.672386392678318,Underserved
-Quincy,IL,"2 - 30,000 to 50,000",2.461053823247114414400000,Economic development,8.366049858369905,Underserved
-Quincy,IL,"2 - 30,000 to 50,000",2.461053823247114414400000,Environment/planning,4.021393815096312,Underserved
-New Berlin,WI,"2 - 30,000 to 50,000",2.526273241713823767200000,Health,3.906600095183279,Underserved
-New Berlin,WI,"2 - 30,000 to 50,000",2.526273241713823767200000,Economic development,8.366049858369905,Underserved
-New Berlin,WI,"2 - 30,000 to 50,000",2.526273241713823767200000,Civic information,17.72062174067136,Underserved
-Beverly,MA,"2 - 30,000 to 50,000",2.531517391524479773200000,Environment/planning,4.021393815096312,Underserved
-Beverly,MA,"2 - 30,000 to 50,000",2.531517391524479773200000,Economic development,8.366049858369905,Underserved
-Beverly,MA,"2 - 30,000 to 50,000",2.531517391524479773200000,Political life,9.516106009420945,Underserved
-Rock Island,IL,"2 - 30,000 to 50,000",2.562919678097288431000000,Political life,9.516106009420945,Underserved
-Coppell,TX,"2 - 30,000 to 50,000",2.586719780646162601200000,Political life,9.516106009420945,Underserved
-Coppell,TX,"2 - 30,000 to 50,000",2.586719780646162601200000,Transportation systems,3.672386392678318,Underserved
-Coppell,TX,"2 - 30,000 to 50,000",2.586719780646162601200000,Health,3.906600095183279,Underserved
-Valley Stream,NY,"2 - 30,000 to 50,000",2.665884673829010157000000,Emergencies/risks,10.85864755544697,Underserved
-Valley Stream,NY,"2 - 30,000 to 50,000",2.665884673829010157000000,Civic information,17.72062174067136,Underserved
-Valley Stream,NY,"2 - 30,000 to 50,000",2.665884673829010157000000,Education,7.357791610975468,Underserved
-Spartanburg,SC,"2 - 30,000 to 50,000",2.701753437981249831100000,Health,3.906600095183279,Underserved
-Marion,OH,"2 - 30,000 to 50,000",2.714661888861742270000000,Health,3.906600095183279,Underserved
-Marion,OH,"2 - 30,000 to 50,000",2.714661888861742270000000,Environment/planning,4.021393815096312,Underserved
-Cottage Grove,MN,"2 - 30,000 to 50,000",2.891092543872329353300000,Emergencies/risks,10.85864755544697,Underserved
-Cottage Grove,MN,"2 - 30,000 to 50,000",2.891092543872329353300000,Health,3.906600095183279,Underserved
-Cottage Grove,MN,"2 - 30,000 to 50,000",2.891092543872329353300000,Political life,9.516106009420945,Underserved
-Cottage Grove,MN,"2 - 30,000 to 50,000",2.891092543872329353300000,Environment/planning,4.021393815096312,Underserved
-Issaquah,WA,"2 - 30,000 to 50,000",3.285798777682854702000000,Environment/planning,4.021393815096312,Underserved
-Minnetonka,MN,"2 - 30,000 to 50,000",4.021393815096312381900000,Emergencies/risks,10.85864755544697,Underserved
-Beavercreek,OH,"2 - 30,000 to 50,000",4.425464120549642643800000,Civic information,17.72062174067136,Underserved
-Beverly,MA,"2 - 30,000 to 50,000",5.063034783048959546400000,Emergencies/risks,10.85864755544697,Underserved
-Coppell,TX,"2 - 30,000 to 50,000",5.173439561292325202400000,Education,7.357791610975468,Underserved
-Bozeman,MT,"2 - 30,000 to 50,000",5.364806866952789699600000,Economic development,8.366049858369905,Underserved
-Spartanburg,SC,"2 - 30,000 to 50,000",5.403506875962499662300000,Education,7.357791610975468,Underserved
-Dover,DE,"2 - 30,000 to 50,000",5.548311926096485144400000,Education,7.357791610975468,Underserved
-St. Cloud,FL,"2 - 30,000 to 50,000",5.684563567632095045900000,Civic information,17.72062174067136,Underserved
-Cottage Grove,MN,"2 - 30,000 to 50,000",5.782185087744658706500000,Economic development,8.366049858369905,Underserved
-Menlo Park,CA,"2 - 30,000 to 50,000",6.244925997626928120900000,Economic development,8.366049858369905,Underserved
-Issaquah,WA,"2 - 30,000 to 50,000",6.571597555365709404000000,Education,7.357791610975468,Underserved
-Issaquah,WA,"2 - 30,000 to 50,000",6.571597555365709404000000,Emergencies/risks,10.85864755544697,Underserved
-Quincy,IL,"2 - 30,000 to 50,000",7.383161469741343243200000,Political life,9.516106009420945,Underserved
-Spartanburg,SC,"2 - 30,000 to 50,000",8.105260313943749493400000,Civic information,17.72062174067136,Underserved
-Marion,OH,"2 - 30,000 to 50,000",8.143985666585226810000000,Economic development,8.366049858369905,Underserved
-Menlo Park,CA,"2 - 30,000 to 50,000",9.367388996440392181400000,Emergencies/risks,10.85864755544697,Underserved
-State College,PA,"2 - 30,000 to 50,000",9.516106009420944949300000,Emergencies/risks,10.85864755544697,Underserved
-Quincy,IL,"2 - 30,000 to 50,000",9.844215292988457657600000,Civic information,17.72062174067136,Underserved
-Issaquah,WA,"2 - 30,000 to 50,000",16.42899388841427400000,Civic information,17.72062174067136,Underserved
-Boulder,CO,"3 - 50,000 to 100,000",1.026852184628022796100000,Environment/planning,2.982127639041809,Underserved
-Vacaville,CA,"3 - 50,000 to 100,000",1.081923226727831393100000,Environment/planning,2.982127639041809,Underserved
-Tracy,CA,"3 - 50,000 to 100,000",1.205952581944477943100000,Transportation systems,2.781434079871828,Underserved
-Tracy,CA,"3 - 50,000 to 100,000",1.205952581944477943100000,Economic development,3.534880432669365,Underserved
-Merced,CA,"3 - 50,000 to 100,000",1.266496111856936599200000,Transportation systems,2.781434079871828,Underserved
-Merced,CA,"3 - 50,000 to 100,000",1.266496111856936599200000,Civic information,6.233151013666183,Underserved
-Merced,CA,"3 - 50,000 to 100,000",1.266496111856936599200000,Education,5.409616133639157,Underserved
-Merced,CA,"3 - 50,000 to 100,000",1.266496111856936599200000,Health,1.7674402163346825,Underserved
-Medford,OR,"3 - 50,000 to 100,000",1.334988719345321532000000,Health,1.7674402163346825,Underserved
-Wyoming,MI,"3 - 50,000 to 100,000",1.386481802426343154200000,Civic information,6.233151013666183,Underserved
-Apple Valley,CA,"3 - 50,000 to 100,000",1.446445360526506111200000,Emergencies/risks,5.187858674582847,Underserved
-Apple Valley,CA,"3 - 50,000 to 100,000",1.446445360526506111200000,Environment/planning,2.982127639041809,Underserved
-Rock Hill,SC,"3 - 50,000 to 100,000",1.511624391571182392600000,Environment/planning,2.982127639041809,Underserved
-Rock Hill,SC,"3 - 50,000 to 100,000",1.511624391571182392600000,Economic development,3.534880432669365,Underserved
-Flower Mound,TX,"3 - 50,000 to 100,000",1.546335956950006958500000,Health,1.7674402163346825,Underserved
-Walnut Creek,CA,"3 - 50,000 to 100,000",1.558287753416545899400000,Health,1.7674402163346825,Underserved
-Woodbury,MN,"3 - 50,000 to 100,000",1.613918432562418295400000,Economic development,3.534880432669365,Underserved
-Woodbury,MN,"3 - 50,000 to 100,000",1.613918432562418295400000,Transportation systems,2.781434079871828,Underserved
-West Allis,WI,"3 - 50,000 to 100,000",1.655327672112694707900000,Civic information,6.233151013666183,Underserved
-West Allis,WI,"3 - 50,000 to 100,000",1.655327672112694707900000,Political life,6.077347749520472,Underserved
-West Allis,WI,"3 - 50,000 to 100,000",1.655327672112694707900000,Emergencies/risks,5.187858674582847,Underserved
-Royal Oak,MI,"3 - 50,000 to 100,000",1.747152142008526102500000,Health,1.7674402163346825,Underserved
-Royal Oak,MI,"3 - 50,000 to 100,000",1.747152142008526102500000,Economic development,3.534880432669365,Underserved
-Marietta,GA,"3 - 50,000 to 100,000",1.767440216334682479400000,Emergencies/risks,5.187858674582847,Underserved
-Milford City (Balance),CT,"3 - 50,000 to 100,000",1.950420315578007060500000,Transportation systems,2.781434079871828,Underserved
-Glendora,CA,"3 - 50,000 to 100,000",1.997084256984802188800000,Transportation systems,2.781434079871828,Underserved
-Glendora,CA,"3 - 50,000 to 100,000",1.997084256984802188800000,Political life,6.077347749520472,Underserved
-Glendora,CA,"3 - 50,000 to 100,000",1.997084256984802188800000,Education,5.409616133639157,Underserved
-Boulder,CO,"3 - 50,000 to 100,000",2.053704369256045592200000,Political life,6.077347749520472,Underserved
-Yakima,WA,"3 - 50,000 to 100,000",2.196185226261982935600000,Economic development,3.534880432669365,Underserved
-Tracy,CA,"3 - 50,000 to 100,000",2.411905163888955886300000,Political life,6.077347749520472,Underserved
-Merced,CA,"3 - 50,000 to 100,000",2.532992223713873198400000,Emergencies/risks,5.187858674582847,Underserved
-Medford,OR,"3 - 50,000 to 100,000",2.669977438690643064100000,Environment/planning,2.982127639041809,Underserved
-Medford,OR,"3 - 50,000 to 100,000",2.669977438690643064100000,Transportation systems,2.781434079871828,Underserved
-Medford,OR,"3 - 50,000 to 100,000",2.669977438690643064100000,Civic information,6.233151013666183,Underserved
-Tracy,CA,"3 - 50,000 to 100,000",3.617857745833433829400000,Civic information,6.233151013666183,Underserved
-Milford City (Balance),CT,"3 - 50,000 to 100,000",3.900840631156014121000000,Education,5.409616133639157,Underserved
-Glendora,CA,"3 - 50,000 to 100,000",3.994168513969604377600000,Civic information,6.233151013666183,Underserved
-Glendora,CA,"3 - 50,000 to 100,000",3.994168513969604377600000,Emergencies/risks,5.187858674582847,Underserved
-Apple Valley,CA,"3 - 50,000 to 100,000",4.339336081579518333700000,Civic information,6.233151013666183,Underserved
-Yakima,WA,"3 - 50,000 to 100,000",4.392370452523965871300000,Education,5.409616133639157,Underserved
-Flower Mound,TX,"3 - 50,000 to 100,000",4.639007870850020875500000,Emergencies/risks,5.187858674582847,Underserved
-Woodbury,MN,"3 - 50,000 to 100,000",4.841755297687254886100000,Emergencies/risks,5.187858674582847,Underserved
-Boulder,CO,"3 - 50,000 to 100,000",5.134260923140113980600000,Emergencies/risks,5.187858674582847,Underserved
-Royal Oak,MI,"3 - 50,000 to 100,000",5.241456426025578307400000,Civic information,6.233151013666183,Underserved
-Flower Mound,TX,"3 - 50,000 to 100,000",6.185343827800027834000000,Civic information,6.233151013666183,Underserved
-Stockton,CA,"4 - 100,000 to 300,000",0.342809737167774513500000,Political life,1.9536592036885085,Underserved
-Stockton,CA,"4 - 100,000 to 300,000",0.342809737167774513500000,Education,2.9171103105263927,Underserved
-Stockton,CA,"4 - 100,000 to 300,000",0.342809737167774513500000,Health,1.2365531790710032,Underserved
-Laredo,TX,"4 - 100,000 to 300,000",0.423565489578171128900000,Transportation systems,1.0284292115033236,Underserved
-Laredo,TX,"4 - 100,000 to 300,000",0.423565489578171128900000,Environment/planning,1.0636034886194428,Underserved
-Laredo,TX,"4 - 100,000 to 300,000",0.423565489578171128900000,Health,1.2365531790710032,Underserved
-Glendale,AZ,"4 - 100,000 to 300,000",0.441070743336523745000000,Political life,1.9536592036885085,Underserved
-Glendale,AZ,"4 - 100,000 to 300,000",0.441070743336523745000000,Economic development,3.317102582199448,Underserved
-Corona,CA,"4 - 100,000 to 300,000",0.656279942772388990200000,Environment/planning,1.0636034886194428,Underserved
-Paterson,NJ,"4 - 100,000 to 300,000",0.683999206560920389300000,Education,2.9171103105263927,Underserved
-Stockton,CA,"4 - 100,000 to 300,000",0.685619474335549026900000,Economic development,3.317102582199448,Underserved
-Mesquite,TX,"4 - 100,000 to 300,000",0.715184803753289850100000,Civic information,6.460477854870318,Underserved
-Pasadena,CA,"4 - 100,000 to 300,000",0.729277577631598138900000,Transportation systems,1.0284292115033236,Underserved
-Laredo,TX,"4 - 100,000 to 300,000",0.847130979156342257900000,Economic development,3.317102582199448,Underserved
-Laredo,TX,"4 - 100,000 to 300,000",0.847130979156342257900000,Political life,1.9536592036885085,Underserved
-Ann Arbor,MI,"4 - 100,000 to 300,000",0.877701125212842522900000,Emergencies/risks,6.353482343672567,Underserved
-Ann Arbor,MI,"4 - 100,000 to 300,000",0.877701125212842522900000,Health,1.2365531790710032,Underserved
-Antioch,CA,"4 - 100,000 to 300,000",0.976829601844254288300000,Transportation systems,1.0284292115033236,Underserved
-Antioch,CA,"4 - 100,000 to 300,000",0.976829601844254288300000,Environment/planning,1.0636034886194428,Underserved
-Laredo,TX,"4 - 100,000 to 300,000",1.270696468734513386800000,Education,2.9171103105263927,Underserved
-Glendale,AZ,"4 - 100,000 to 300,000",1.323212230009571235100000,Emergencies/risks,6.353482343672567,Underserved
-Paterson,NJ,"4 - 100,000 to 300,000",1.367998413121840778700000,Economic development,3.317102582199448,Underserved
-Stockton,CA,"4 - 100,000 to 300,000",1.371238948671098053900000,Emergencies/risks,6.353482343672567,Underserved
-Pasadena,CA,"4 - 100,000 to 300,000",1.458555155263196277800000,Political life,1.9536592036885085,Underserved
-Glendale,AZ,"4 - 100,000 to 300,000",1.764282973346094980200000,Civic information,6.460477854870318,Underserved
-Paterson,NJ,"4 - 100,000 to 300,000",2.735996826243681557300000,Civic information,6.460477854870318,Underserved
-Pasadena,CA,"4 - 100,000 to 300,000",2.917110310526392555500000,Emergencies/risks,6.353482343672567,Underserved
-Stockton,CA,"4 - 100,000 to 300,000",3.428097371677745134700000,Civic information,6.460477854870318,Underserved
-Ann Arbor,MI,"4 - 100,000 to 300,000",6.143907876489897660000000,Civic information,6.460477854870318,Underserved
+city,state,population_band,cin_per_100k,critical_info_need,median_cin_per_100k,status,,CIN,Number of cities underserved,Percent of all communities*,,,,city,# of underserved CINs
+Alton,IL,"1 - Under 30,000",3.588731383,Civic information,4.631726737,Underserved,,Civic information,33,0.34375,Most underserved CIN,,,Alton,2
+Alton,IL,"1 - Under 30,000",10.76619415,Civic information,16.73920321,Underserved,,Economic development,22,0.229166667,Third most underserved,,,Ann Arbor,3
+Ann Arbor,MI,"4 - 100,000 to 300,000",6.143907876,Civic information,6.460477855,Underserved,,Education,19,0.197916667,,,,Antioch,2
+Ann Arbor,MI,"4 - 100,000 to 300,000",0.877701125,Civic information,6.353482344,Underserved,,Emergencies/risks,28,0.291666667,Second most underserved,,,Apple Valley,3
+Ann Arbor,MI,"4 - 100,000 to 300,000",0.877701125,Civic information,1.236553179,Underserved,,Environment/planning,17,0.177083333,,,,Beavercreek,1
+Antioch,CA,"4 - 100,000 to 300,000",0.976829602,Civic information,1.063603489,Underserved,,Health,18,0.1875,,,,Belmont,2
+Antioch,CA,"4 - 100,000 to 300,000",0.976829602,Civic information,1.028429212,Underserved,,Political life,18,0.1875,,,,Beverly,4
+Apple Valley,CA,"3 - 50,000 to 100,000",4.339336082,Civic information,6.233151014,Underserved,,Transportation systems,16,0.166666667,,,,Biddeford,1
+Apple Valley,CA,"3 - 50,000 to 100,000",1.446445361,Civic information,5.187858675,Underserved,,,,,,,,Boulder,3
+Apple Valley,CA,"3 - 50,000 to 100,000",1.446445361,Civic information,2.982127639,Underserved,,,,,,,,Bozeman,1
+Beavercreek,OH,"2 - 30,000 to 50,000",4.425464121,Civic information,17.72062174,Underserved,,,,,,,,Charleston,1
+Belmont,CA,"1 - Under 30,000",3.870718018,Civic information,16.73920321,Underserved,,,,,,,,Coppell,4
+Belmont,CA,"1 - Under 30,000",3.870718018,Civic information,4.10315961,Underserved,,,,,,,,Corona,1
+Beverly,MA,"2 - 30,000 to 50,000",2.531517392,Civic information,8.366049858,Underserved,,,,,,,,Cottage Grove,5
+Beverly,MA,"2 - 30,000 to 50,000",5.063034783,Civic information,10.85864756,Underserved,,,,,,,,Darien,1
+Beverly,MA,"2 - 30,000 to 50,000",2.531517392,Civic information,4.021393815,Underserved,,,,,,,,Dover,1
+Beverly,MA,"2 - 30,000 to 50,000",2.531517392,Civic information,9.516106009,Underserved,,,,,,,,East St. Louis,3
+Biddeford,ME,"1 - Under 30,000",14.09973211,Civic information,19.58312133,Underserved,,,,,,,,Elizabethtown,4
+Boulder,CO,"3 - 50,000 to 100,000",5.134260923,Civic information,5.187858675,Underserved,,,,,,,,Elmwood Park,1
+Boulder,CO,"3 - 50,000 to 100,000",1.026852185,Civic information,2.982127639,Underserved,,,,,,,,Faribault,2
+Boulder,CO,"3 - 50,000 to 100,000",2.053704369,Civic information,6.07734775,Underserved,,,,,,,,Flower Mound,3
+Bozeman,MT,"2 - 30,000 to 50,000",5.364806867,Civic information,8.366049858,Underserved,,,,,,,,Garfield Heights,1
+Charleston,IL,"1 - Under 30,000",4.579173917,Civic information,4.631726737,Underserved,,,,,,,,Glendale,4
+Coppell,TX,"2 - 30,000 to 50,000",5.173439561,Civic information,7.357791611,Underserved,,,,,,,,Glendora,5
+Coppell,TX,"2 - 30,000 to 50,000",2.586719781,Civic information,3.906600095,Underserved,,,,,,,,Henderson,4
+Coppell,TX,"2 - 30,000 to 50,000",2.586719781,Civic information,9.516106009,Underserved,,,,,,,,Issaquah,4
+Coppell,TX,"2 - 30,000 to 50,000",2.586719781,Civic information,3.672386393,Underserved,,,,,,,,Keene,3
+Corona,CA,"4 - 100,000 to 300,000",0.656279943,Civic information,1.063603489,Underserved,,,,,,,,Kingsville,3
+Cottage Grove,MN,"2 - 30,000 to 50,000",5.782185088,Civic information,8.366049858,Underserved,,,,,,,,La Porte,1
+Cottage Grove,MN,"2 - 30,000 to 50,000",2.891092544,Civic information,10.85864756,Underserved,,,,,,,,Laredo,6
+Cottage Grove,MN,"2 - 30,000 to 50,000",2.891092544,Civic information,4.021393815,Underserved,,,,,,,,Loves Park,2
+Cottage Grove,MN,"2 - 30,000 to 50,000",2.891092544,Civic information,3.906600095,Underserved,,,,,,,,Marietta,1
+Cottage Grove,MN,"2 - 30,000 to 50,000",2.891092544,Civic information,9.516106009,Underserved,,,,,,,,Marion,3
+Darien,IL,"1 - Under 30,000",4.527755139,Economic development,16.73920321,Underserved,,,,,,,,Medford,4
+Dover,DE,"2 - 30,000 to 50,000",5.548311926,Economic development,7.357791611,Underserved,,,,,,,,Menlo Park,2
+East St. Louis,IL,"1 - Under 30,000",3.702880841,Economic development,4.631726737,Underserved,,,,,,,,Merced,5
+East St. Louis,IL,"1 - Under 30,000",3.702880841,Economic development,7.066145578,Underserved,,,,,,,,Mesquite,1
+East St. Louis,IL,"1 - Under 30,000",3.702880841,Economic development,4.10315961,Underserved,,,,,,,,Milford City (Balance),2
+Elizabethtown,KY,"1 - Under 30,000",10.51487855,Economic development,19.58312133,Underserved,,,,,,,,Minnetonka,4
+Elizabethtown,KY,"1 - Under 30,000",3.504959518,Economic development,4.631726737,Underserved,,,,,,,,New Berlin,3
+Elizabethtown,KY,"1 - Under 30,000",3.504959518,Economic development,15.25960401,Underserved,,,,,,,,Owasso,1
+Elizabethtown,KY,"1 - Under 30,000",3.504959518,Economic development,5.724662008,Underserved,,,,,,,,Oxford,2
+Elmwood Park,IL,"1 - Under 30,000",12.05642406,Economic development,19.58312133,Underserved,,,,,,,,Pasadena,3
+Faribault,MN,"1 - Under 30,000",8.56457691,Economic development,16.73920321,Underserved,,,,,,,,Paterson,3
+Faribault,MN,"1 - Under 30,000",4.282288455,Economic development,8.5437225,Underserved,,,,,,,,Quincy,5
+Flower Mound,TX,"3 - 50,000 to 100,000",6.185343828,Economic development,6.233151014,Underserved,,,,,,,,Rexburg,5
+Flower Mound,TX,"3 - 50,000 to 100,000",4.639007871,Economic development,5.187858675,Underserved,,,,,,,,Rock Hill,2
+Flower Mound,TX,"3 - 50,000 to 100,000",1.546335957,Economic development,1.767440216,Underserved,,,,,,,,Rock Island,1
+Garfield Heights,OH,"1 - Under 30,000",10.39897397,Economic development,19.58312133,Underserved,,,,,,,,Royal Oak,3
+Glendale,AZ,"4 - 100,000 to 300,000",1.764282973,Economic development,6.460477855,Underserved,,,,,,,,Searcy,2
+Glendale,AZ,"4 - 100,000 to 300,000",0.441070743,Economic development,3.317102582,Underserved,,,,,,,,Slidell,1
+Glendale,AZ,"4 - 100,000 to 300,000",1.32321223,Economic development,6.353482344,Underserved,,,,,,,,Spartanburg,3
+Glendale,AZ,"4 - 100,000 to 300,000",0.441070743,Economic development,1.953659204,Underserved,,,,,,,,St. Cloud,1
+Glendora,CA,"3 - 50,000 to 100,000",3.994168514,Economic development,6.233151014,Underserved,,,,,,,,State College,1
+Glendora,CA,"3 - 50,000 to 100,000",1.997084257,Economic development,5.409616134,Underserved,,,,,,,,Stockton,6
+Glendora,CA,"3 - 50,000 to 100,000",3.994168514,Education,5.187858675,Underserved,,,,,,,,Texarkana,1
+Glendora,CA,"3 - 50,000 to 100,000",1.997084257,Education,6.07734775,Underserved,,,,,,,,Tracy,4
+Glendora,CA,"3 - 50,000 to 100,000",1.997084257,Education,2.78143408,Underserved,,,,,,,,Vacaville,1
+Henderson,KY,"1 - Under 30,000",10.43224258,Education,16.73920321,Underserved,,,,,,,,Valley Stream,3
+Henderson,KY,"1 - Under 30,000",6.95482839,Education,7.066145578,Underserved,,,,,,,,Walnut Creek,1
+Henderson,KY,"1 - Under 30,000",3.477414195,Education,4.10315961,Underserved,,,,,,,,West Allis,3
+Henderson,KY,"1 - Under 30,000",3.477414195,Education,5.724662008,Underserved,,,,,,,,Willoughby,1
+Issaquah,WA,"2 - 30,000 to 50,000",16.42899389,Education,17.72062174,Underserved,,,,,,,,Winona,2
+Issaquah,WA,"2 - 30,000 to 50,000",6.571597555,Education,7.357791611,Underserved,,,,,,,,Woodbury,3
+Issaquah,WA,"2 - 30,000 to 50,000",6.571597555,Education,10.85864756,Underserved,,,,,,,,Woodstock,4
+Issaquah,WA,"2 - 30,000 to 50,000",3.285798778,Education,4.021393815,Underserved,,,,,,,,Wyoming,1
+Keene,NH,"1 - Under 30,000",8.5437225,Education,19.58312133,Underserved,,,,,,,,Yakima,2
+Keene,NH,"1 - Under 30,000",8.5437225,Education,15.25960401,Underserved,,,,,,,,,
+Keene,NH,"1 - Under 30,000",4.27186125,Education,5.724662008,Underserved,,,,,,,,,
+Kingsville,TX,"1 - Under 30,000",15.25960401,Education,16.73920321,Underserved,,,,,,,,,
+Kingsville,TX,"1 - Under 30,000",3.814901003,Education,7.066145578,Underserved,,,,,,,,,
+Kingsville,TX,"1 - Under 30,000",3.814901003,Education,4.10315961,Underserved,,,,,,,,,
+La Porte,IN,"1 - Under 30,000",13.60359135,Education,19.58312133,Underserved,,,,,,,,,
+Laredo,TX,"4 - 100,000 to 300,000",0.847130979,Education,3.317102582,Underserved,,,,,,,,,
+Laredo,TX,"4 - 100,000 to 300,000",1.270696469,Emergencies/risks,2.917110311,Underserved,,,,,,,,,
+Laredo,TX,"4 - 100,000 to 300,000",0.42356549,Emergencies/risks,1.063603489,Underserved,,,,,,,,,
+Laredo,TX,"4 - 100,000 to 300,000",0.42356549,Emergencies/risks,1.236553179,Underserved,,,,,,,,,
+Laredo,TX,"4 - 100,000 to 300,000",0.847130979,Emergencies/risks,1.953659204,Underserved,,,,,,,,,
+Laredo,TX,"4 - 100,000 to 300,000",0.42356549,Emergencies/risks,1.028429212,Underserved,,,,,,,,,
+Loves Park,IL,"1 - Under 30,000",16.66944491,Emergencies/risks,19.58312133,Underserved,,,,,,,,,
+Loves Park,IL,"1 - Under 30,000",8.334722454,Emergencies/risks,16.73920321,Underserved,,,,,,,,,
+Marietta,GA,"3 - 50,000 to 100,000",1.767440216,Emergencies/risks,5.187858675,Underserved,,,,,,,,,
+Marion,OH,"2 - 30,000 to 50,000",8.143985667,Emergencies/risks,8.366049858,Underserved,,,,,,,,,
+Marion,OH,"2 - 30,000 to 50,000",2.714661889,Emergencies/risks,4.021393815,Underserved,,,,,,,,,
+Marion,OH,"2 - 30,000 to 50,000",2.714661889,Emergencies/risks,3.906600095,Underserved,,,,,,,,,
+Medford,OR,"3 - 50,000 to 100,000",2.669977439,Emergencies/risks,6.233151014,Underserved,,,,,,,,,
+Medford,OR,"3 - 50,000 to 100,000",2.669977439,Emergencies/risks,2.982127639,Underserved,,,,,,,,,
+Medford,OR,"3 - 50,000 to 100,000",1.334988719,Emergencies/risks,1.767440216,Underserved,,,,,,,,,
+Medford,OR,"3 - 50,000 to 100,000",2.669977439,Emergencies/risks,2.78143408,Underserved,,,,,,,,,
+Menlo Park,CA,"2 - 30,000 to 50,000",6.244925998,Emergencies/risks,8.366049858,Underserved,,,,,,,,,
+Menlo Park,CA,"2 - 30,000 to 50,000",9.367388996,Emergencies/risks,10.85864756,Underserved,,,,,,,,,
+Merced,CA,"3 - 50,000 to 100,000",1.266496112,Emergencies/risks,6.233151014,Underserved,,,,,,,,,
+Merced,CA,"3 - 50,000 to 100,000",1.266496112,Emergencies/risks,5.409616134,Underserved,,,,,,,,,
+Merced,CA,"3 - 50,000 to 100,000",2.532992224,Emergencies/risks,5.187858675,Underserved,,,,,,,,,
+Merced,CA,"3 - 50,000 to 100,000",1.266496112,Emergencies/risks,1.767440216,Underserved,,,,,,,,,
+Merced,CA,"3 - 50,000 to 100,000",1.266496112,Emergencies/risks,2.78143408,Underserved,,,,,,,,,
+Mesquite,TX,"4 - 100,000 to 300,000",0.715184804,Emergencies/risks,6.460477855,Underserved,,,,,,,,,
+Milford City (Balance),CT,"3 - 50,000 to 100,000",3.900840631,Emergencies/risks,5.409616134,Underserved,,,,,,,,,
+Milford City (Balance),CT,"3 - 50,000 to 100,000",1.950420316,Emergencies/risks,2.78143408,Underserved,,,,,,,,,
+Minnetonka,MN,"2 - 30,000 to 50,000",2.010696908,Emergencies/risks,17.72062174,Underserved,,,,,,,,,
+Minnetonka,MN,"2 - 30,000 to 50,000",2.010696908,Emergencies/risks,7.357791611,Underserved,,,,,,,,,
+Minnetonka,MN,"2 - 30,000 to 50,000",4.021393815,Emergencies/risks,10.85864756,Underserved,,,,,,,,,
+Minnetonka,MN,"2 - 30,000 to 50,000",2.010696908,Environment/planning,3.672386393,Underserved,,,,,,,,,
+New Berlin,WI,"2 - 30,000 to 50,000",2.526273242,Environment/planning,17.72062174,Underserved,,,,,,,,,
+New Berlin,WI,"2 - 30,000 to 50,000",2.526273242,Environment/planning,8.366049858,Underserved,,,,,,,,,
+New Berlin,WI,"2 - 30,000 to 50,000",2.526273242,Environment/planning,3.906600095,Underserved,,,,,,,,,
+Owasso,OK,"1 - Under 30,000",17.29206294,Environment/planning,19.58312133,Underserved,,,,,,,,,
+Oxford,AL,"1 - Under 30,000",9.368559116,Environment/planning,15.25960401,Underserved,,,,,,,,,
+Oxford,AL,"1 - Under 30,000",4.684279558,Environment/planning,7.066145578,Underserved,,,,,,,,,
+Pasadena,CA,"4 - 100,000 to 300,000",2.917110311,Environment/planning,6.353482344,Underserved,,,,,,,,,
+Pasadena,CA,"4 - 100,000 to 300,000",1.458555155,Environment/planning,1.953659204,Underserved,,,,,,,,,
+Pasadena,CA,"4 - 100,000 to 300,000",0.729277578,Environment/planning,1.028429212,Underserved,,,,,,,,,
+Paterson,NJ,"4 - 100,000 to 300,000",2.735996826,Environment/planning,6.460477855,Underserved,,,,,,,,,
+Paterson,NJ,"4 - 100,000 to 300,000",1.367998413,Environment/planning,3.317102582,Underserved,,,,,,,,,
+Paterson,NJ,"4 - 100,000 to 300,000",0.683999207,Environment/planning,2.917110311,Underserved,,,,,,,,,
+Quincy,IL,"2 - 30,000 to 50,000",9.844215293,Environment/planning,17.72062174,Underserved,,,,,,,,,
+Quincy,IL,"2 - 30,000 to 50,000",2.461053823,Environment/planning,8.366049858,Underserved,,,,,,,,,
+Quincy,IL,"2 - 30,000 to 50,000",2.461053823,Environment/planning,4.021393815,Underserved,,,,,,,,,
+Quincy,IL,"2 - 30,000 to 50,000",7.38316147,Environment/planning,9.516106009,Underserved,,,,,,,,,
+Quincy,IL,"2 - 30,000 to 50,000",2.461053823,Health,3.672386393,Underserved,,,,,,,,,
+Rexburg,ID,"1 - Under 30,000",15.69612306,Health,19.58312133,Underserved,,,,,,,,,
+Rexburg,ID,"1 - Under 30,000",15.69612306,Health,16.73920321,Underserved,,,,,,,,,
+Rexburg,ID,"1 - Under 30,000",3.924030764,Health,8.5437225,Underserved,,,,,,,,,
+Rexburg,ID,"1 - Under 30,000",3.924030764,Health,7.066145578,Underserved,,,,,,,,,
+Rexburg,ID,"1 - Under 30,000",3.924030764,Health,4.10315961,Underserved,,,,,,,,,
+Rock Hill,SC,"3 - 50,000 to 100,000",1.511624392,Health,3.534880433,Underserved,,,,,,,,,
+Rock Hill,SC,"3 - 50,000 to 100,000",1.511624392,Health,2.982127639,Underserved,,,,,,,,,
+Rock Island,IL,"2 - 30,000 to 50,000",2.562919678,Health,9.516106009,Underserved,,,,,,,,,
+Royal Oak,MI,"3 - 50,000 to 100,000",5.241456426,Health,6.233151014,Underserved,,,,,,,,,
+Royal Oak,MI,"3 - 50,000 to 100,000",1.747152142,Health,3.534880433,Underserved,,,,,,,,,
+Royal Oak,MI,"3 - 50,000 to 100,000",1.747152142,Health,1.767440216,Underserved,,,,,,,,,
+Searcy,AR,"1 - Under 30,000",8.749671887,Health,15.25960401,Underserved,,,,,,,,,
+Searcy,AR,"1 - Under 30,000",4.374835944,Health,8.5437225,Underserved,,,,,,,,,
+Slidell,LA,"1 - Under 30,000",7.388798581,Health,19.58312133,Underserved,,,,,,,,,
+Spartanburg,SC,"2 - 30,000 to 50,000",8.105260314,Health,17.72062174,Underserved,,,,,,,,,
+Spartanburg,SC,"2 - 30,000 to 50,000",5.403506876,Health,7.357791611,Underserved,,,,,,,,,
+Spartanburg,SC,"2 - 30,000 to 50,000",2.701753438,Health,3.906600095,Underserved,,,,,,,,,
+St. Cloud,FL,"2 - 30,000 to 50,000",5.684563568,Political life,17.72062174,Underserved,,,,,,,,,
+State College,PA,"2 - 30,000 to 50,000",9.516106009,Political life,10.85864756,Underserved,,,,,,,,,
+Stockton,CA,"4 - 100,000 to 300,000",3.428097372,Political life,6.460477855,Underserved,,,,,,,,,
+Stockton,CA,"4 - 100,000 to 300,000",0.685619474,Political life,3.317102582,Underserved,,,,,,,,,
+Stockton,CA,"4 - 100,000 to 300,000",0.342809737,Political life,2.917110311,Underserved,,,,,,,,,
+Stockton,CA,"4 - 100,000 to 300,000",1.371238949,Political life,6.353482344,Underserved,,,,,,,,,
+Stockton,CA,"4 - 100,000 to 300,000",0.342809737,Political life,1.236553179,Underserved,,,,,,,,,
+Stockton,CA,"4 - 100,000 to 300,000",0.342809737,Political life,1.953659204,Underserved,,,,,,,,,
+Texarkana,AR,"1 - Under 30,000",3.342357699,Political life,4.631726737,Underserved,,,,,,,,,
+Tracy,CA,"3 - 50,000 to 100,000",3.617857746,Political life,6.233151014,Underserved,,,,,,,,,
+Tracy,CA,"3 - 50,000 to 100,000",1.205952582,Political life,3.534880433,Underserved,,,,,,,,,
+Tracy,CA,"3 - 50,000 to 100,000",2.411905164,Political life,6.07734775,Underserved,,,,,,,,,
+Tracy,CA,"3 - 50,000 to 100,000",1.205952582,Political life,2.78143408,Underserved,,,,,,,,,
+Vacaville,CA,"3 - 50,000 to 100,000",1.081923227,Political life,2.982127639,Underserved,,,,,,,,,
+Valley Stream,NY,"2 - 30,000 to 50,000",2.665884674,Political life,17.72062174,Underserved,,,,,,,,,
+Valley Stream,NY,"2 - 30,000 to 50,000",2.665884674,Political life,7.357791611,Underserved,,,,,,,,,
+Valley Stream,NY,"2 - 30,000 to 50,000",2.665884674,Political life,10.85864756,Underserved,,,,,,,,,
+Walnut Creek,CA,"3 - 50,000 to 100,000",1.558287753,Political life,1.767440216,Underserved,,,,,,,,,
+West Allis,WI,"3 - 50,000 to 100,000",1.655327672,Transportation systems,6.233151014,Underserved,,,,,,,,,
+West Allis,WI,"3 - 50,000 to 100,000",1.655327672,Transportation systems,5.187858675,Underserved,,,,,,,,,
+West Allis,WI,"3 - 50,000 to 100,000",1.655327672,Transportation systems,6.07734775,Underserved,,,,,,,,,
+Willoughby,OH,"1 - Under 30,000",13.47224717,Transportation systems,16.73920321,Underserved,,,,,,,,,
+Winona,MN,"1 - Under 30,000",10.87271673,Transportation systems,15.25960401,Underserved,,,,,,,,,
+Winona,MN,"1 - Under 30,000",3.62423891,Transportation systems,5.724662008,Underserved,,,,,,,,,
+Woodbury,MN,"3 - 50,000 to 100,000",1.613918433,Transportation systems,3.534880433,Underserved,,,,,,,,,
+Woodbury,MN,"3 - 50,000 to 100,000",4.841755298,Transportation systems,5.187858675,Underserved,,,,,,,,,
+Woodbury,MN,"3 - 50,000 to 100,000",1.613918433,Transportation systems,2.78143408,Underserved,,,,,,,,,
+Woodstock,GA,"1 - Under 30,000",16.73920321,Transportation systems,19.58312133,Underserved,,,,,,,,,
+Woodstock,GA,"1 - Under 30,000",4.184800803,Transportation systems,4.631726737,Underserved,,,,,,,,,
+Woodstock,GA,"1 - Under 30,000",4.184800803,Transportation systems,15.25960401,Underserved,,,,,,,,,
+Woodstock,GA,"1 - Under 30,000",4.184800803,Transportation systems,8.5437225,Underserved,,,,,,,,,
+Wyoming,MI,"3 - 50,000 to 100,000",1.386481802,Transportation systems,6.233151014,Underserved,,,,,,,,,
+Yakima,WA,"3 - 50,000 to 100,000",2.196185226,Transportation systems,3.534880433,Underserved,,,,,,,,,
+Yakima,WA,"3 - 50,000 to 100,000",4.392370453,Transportation systems,5.409616134,Underserved,,,,,,,,,
