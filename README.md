@@ -37,10 +37,9 @@ This project began as part of my work at the DeWitt Wallace Center for Media and
 5. **Exploration & Querying**
    - Sample SQL queries used to explore story counts, outlet types, and coverage across locations
 
-6. **Market Analyses**  (In Progress)
+6. **Market Analyses**
    - Market Concentration in Local News: Which communities are underserved relative to their peers, and does outlet type explain it?
    - Coverage Gaps in Local News: Which critical information needs are going unmet in local communities, and which outlet types are filling — or failing to fill — them?
-   - Outlet Type Distribution Across Market Sizes: How does the mix of outlet types vary across community sizes, and where do opportunities exist for new entrants?
 
 ## 📉 Key Findings
 **Market Concentration Analysis**
@@ -48,6 +47,12 @@ This project began as part of my work at the DeWitt Wallace Center for Media and
    - The 50k–100k population band is disproportionately underserved, with 63% of communities falling below their band's median outlet density
    - Larger markets (100k+) are comparatively better served at 36% underserved
    - Four communities have zero local news outlets entirely
+
+**Critical Information Needs Coverage Gap Analysis**
+   - 71 of 100 communities are underserved in at least one Critical Information Need category, including four communities with no local news outlets at all
+   - Of those with a local news outlet, civic information (33 communities) and Emergencies/risks (28 communities) have the largest coverage gaps— the two categories most directly tied to civic participation and public safety
+   - Communities under 50,000 are disproportionately underserved across CIN categories; communities over 100,000 consistently make up the smallest share of underserved communities in every category
+   - Coverage gaps are distributed across many different communities rather than concentrated in a single group, though a subset of communities show gaps across five or more CIN categories
 
 ## 📁 Repo Structure
 local_news_100_communities/  
